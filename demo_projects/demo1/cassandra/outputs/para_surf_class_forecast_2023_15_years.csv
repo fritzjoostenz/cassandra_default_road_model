@@ -1,0 +1,501 @@
+elem_index,file_section_id,file_section_name,file_loc_from,file_loc_to,file_lane_name,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038
+0,1013,Brook Street North,0,220,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+1,1,Conifer Close,0,378,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+2,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+3,4,Highfield Drive,0,71,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+4,3,Matai Way,0,557,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+5,5,Vintry Drive,0,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+6,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+7,6,Croatia Avenue,42,76,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+8,7,Lumbarda Drive,0,152,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+9,8,Tarras Road,0,86,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+10,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+11,9,Kowhai Glen,0,305,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+12,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+13,1038,Gossey Drive North,1319,1723,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+14,10,Upper Ahu Ahu Road,0,46,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+15,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+16,11,Lower Ahu Ahu Road,0,158,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+17,11,Lower Ahu Ahu Road,158,179,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+18,12,Kriletich Drive,0,263,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+19,917,Port Street East,0,21,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+20,917,Port Street East,21,396,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+21,917,Port Street East,396,874,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+22,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+23,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+24,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+25,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+26,13,Puriri Dale Way,0,293,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+27,15,Fendall Close,0,438,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+28,15,Fendall Close,438,585,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+29,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+30,15,Fendall Close,643,736,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+31,15,Fendall Close,736,814,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+32,9339,Weston Way,814,886,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+33,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+34,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+35,9339,Weston Way,1051,1219,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+36,9339,Weston Way,1237,1589,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+37,9339,Weston Way,1589,1999,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+38,9339,Weston Way,1999,2369,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+39,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+40,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+41,9339,Weston Way,3114,3398,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+42,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+43,9339,Weston Way,3457,3675,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+44,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+45,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+46,17,Ash Drive,0,318,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+47,18,Monaghan Way,0,80,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+48,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+49,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+50,19,Elm Close,82,101,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+51,20,Burkes Creek Road,0,21,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+52,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+53,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+54,20,Burkes Creek Road,697,765,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+55,20,Burkes Creek Road,765,1789,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+56,21,Tapeka Heights Lane,0,277,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+57,22,Sir John McKenzie Drive,0,530,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+58,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+59,974,Railway Terrace East,0,730,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+60,24,George Noble Road,0,272,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+61,24,George Noble Road,272,286,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+62,25,Founders Lane,0,597,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+63,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+64,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+65,27,Gallop Lane,116,136,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+66,7056,Dawick Street,0,78,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+67,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+68,28,Stirrup Lane,0,261,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+69,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+70,29,Riroriro Road,122,139,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+71,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+72,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+73,32,Karearea Lane,0,56,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+74,32,Karearea Lane,84,154,All,ac,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+75,32,Karearea Lane,154,820,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+76,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+77,33,Okoare Lane,0,58,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+78,35,Leicester Place,0,660,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+79,36,Paneika Lane,0,370,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+80,36,Paneika Lane,370,391,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+81,36,Paneika Lane,391,520,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+82,37,Freemason Avenue,0,149,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+83,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+84,37,Freemason Avenue,172,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+85,38,Tyler Place,0,279,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+86,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+87,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+88,38,Tyler Place,334,389,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+89,39,Ashlar Court,0,251,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+90,40,Bravery Road,0,278,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+91,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+92,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+93,1092,Bronte Road East,0,156,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+94,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+95,42,Te Manaki Street,0,377,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+96,44,Dickins Lane,0,474,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+97,44,Dickins Lane,474,1091,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+98,43,Infantry Lane,0,95,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+99,45,Chatfield Lane,0,83,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+100,29,Riroriro Road,122,139,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+101,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+102,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+103,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+104,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+105,3,Matai Way,0,557,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+106,3,Matai Way,0,557,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+107,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+108,9339,Weston Way,1237,1589,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+109,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+110,29,Riroriro Road,122,139,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+111,44,Dickins Lane,0,474,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+112,21,Tapeka Heights Lane,0,277,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+113,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+114,28,Stirrup Lane,0,261,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+115,7,Lumbarda Drive,0,152,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+116,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+117,38,Tyler Place,0,279,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+118,44,Dickins Lane,474,1091,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+119,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+120,10,Upper Ahu Ahu Road,0,46,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+121,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+122,15,Fendall Close,736,814,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+123,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+124,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+125,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+126,19,Elm Close,82,101,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+127,9339,Weston Way,1589,1999,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+128,6,Croatia Avenue,42,76,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+129,917,Port Street East,396,874,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+130,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+131,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+132,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+133,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+134,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+135,32,Karearea Lane,0,56,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+136,9339,Weston Way,1051,1219,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+137,18,Monaghan Way,0,80,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+138,44,Dickins Lane,474,1091,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+139,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+140,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+141,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+142,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+143,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+144,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+145,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+146,32,Karearea Lane,84,154,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+147,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+148,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+149,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+150,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+151,10,Upper Ahu Ahu Road,0,46,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+152,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+153,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+154,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+155,4,Highfield Drive,0,71,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+156,37,Freemason Avenue,172,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+157,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+158,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+159,42,Te Manaki Street,0,377,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+160,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+161,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+162,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+163,1,Conifer Close,0,378,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+164,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+165,38,Tyler Place,334,389,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+166,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+167,8,Tarras Road,0,86,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+168,9339,Weston Way,814,886,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+169,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+170,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+171,20,Burkes Creek Road,697,765,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+172,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+173,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+174,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+175,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+176,37,Freemason Avenue,0,149,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+177,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+178,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+179,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+180,25,Founders Lane,0,597,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+181,7,Lumbarda Drive,0,152,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+182,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+183,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+184,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+185,38,Tyler Place,0,279,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+186,44,Dickins Lane,0,474,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+187,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+188,9339,Weston Way,3114,3398,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+189,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+190,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+191,15,Fendall Close,438,585,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+192,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+193,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+194,24,George Noble Road,272,286,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+195,43,Infantry Lane,0,95,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+196,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+197,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+198,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+199,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+200,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+201,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+202,13,Puriri Dale Way,0,293,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+203,15,Fendall Close,643,736,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+204,20,Burkes Creek Road,697,765,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+205,20,Burkes Creek Road,765,1789,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+206,15,Fendall Close,0,438,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+207,21,Tapeka Heights Lane,0,277,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+208,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+209,24,George Noble Road,272,286,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+210,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+211,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+212,27,Gallop Lane,116,136,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+213,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+214,11,Lower Ahu Ahu Road,158,179,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+215,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+216,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+217,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+218,42,Te Manaki Street,0,377,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+219,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+220,7,Lumbarda Drive,0,152,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+221,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+222,28,Stirrup Lane,0,261,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+223,20,Burkes Creek Road,697,765,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+224,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+225,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+226,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+227,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+228,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+229,32,Karearea Lane,84,154,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+230,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+231,33,Okoare Lane,0,58,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+232,40,Bravery Road,0,278,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+233,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+234,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+235,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+236,1038,Gossey Drive North,1319,1723,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+237,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+238,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+239,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+240,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+241,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+242,15,Fendall Close,438,585,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+243,20,Burkes Creek Road,21,520,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+244,9,Kowhai Glen,0,305,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+245,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+246,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+247,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+248,9339,Weston Way,1999,2369,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+249,17,Ash Drive,0,318,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+250,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+251,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+252,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+253,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+254,39,Ashlar Court,0,251,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+255,36,Paneika Lane,391,520,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+256,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+257,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+258,12,Kriletich Drive,0,263,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+259,22,Sir John McKenzie Drive,0,530,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+260,10,Upper Ahu Ahu Road,0,46,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+261,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+262,27,Gallop Lane,116,136,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+263,974,Railway Terrace East,0,730,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+264,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+265,42,Te Manaki Street,0,377,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+266,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+267,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+268,1038,Gossey Drive North,1319,1723,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+269,11,Lower Ahu Ahu Road,0,158,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+270,8,Tarras Road,0,86,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+271,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+272,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+273,13,Puriri Dale Way,0,293,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+274,15,Fendall Close,0,438,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+275,36,Paneika Lane,391,520,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+276,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+277,917,Port Street East,0,21,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+278,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+279,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+280,44,Dickins Lane,0,474,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+281,24,George Noble Road,0,272,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+282,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+283,35,Leicester Place,0,660,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+284,43,Infantry Lane,0,95,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+285,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+286,38,Tyler Place,0,279,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+287,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+288,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+289,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+290,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+291,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+292,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+293,28,Stirrup Lane,0,261,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+294,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+295,15,Fendall Close,736,814,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+296,21,Tapeka Heights Lane,0,277,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+297,917,Port Street East,0,21,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+298,12,Kriletich Drive,0,263,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+299,33,Okoare Lane,0,58,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+300,32,Karearea Lane,84,154,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+301,33,Okoare Lane,0,58,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+302,9339,Weston Way,1999,2369,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+303,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+304,44,Dickins Lane,474,1091,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+305,7056,Dawick Street,0,78,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+306,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+307,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+308,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+309,22,Sir John McKenzie Drive,0,530,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+310,10,Upper Ahu Ahu Road,0,46,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+311,42,Te Manaki Street,0,377,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+312,38,Tyler Place,334,389,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+313,9,Kowhai Glen,0,305,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+314,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+315,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+316,5,Vintry Drive,0,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+317,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+318,9339,Weston Way,814,886,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+319,24,George Noble Road,272,286,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+320,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+321,32,Karearea Lane,84,154,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+322,15,Fendall Close,736,814,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+323,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+324,28,Stirrup Lane,0,261,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+325,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+326,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+327,20,Burkes Creek Road,0,21,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+328,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+329,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+330,30,Curly McLeod Way,69,82,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+331,1092,Bronte Road East,0,156,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+332,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+333,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+334,9339,Weston Way,1999,2369,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+335,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+336,9339,Weston Way,3457,3675,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+337,1092,Bronte Road East,0,156,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+338,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+339,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+340,1,Conifer Close,0,378,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+341,4,Highfield Drive,0,71,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+342,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+343,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+344,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+345,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+346,27,Gallop Lane,0,116,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+347,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+348,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+349,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+350,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+351,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+352,1038,Gossey Drive North,1319,1723,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+353,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+354,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+355,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+356,6,Croatia Avenue,42,76,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+357,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+358,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+359,18,Monaghan Way,0,80,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+360,36,Paneika Lane,391,520,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+361,9339,Weston Way,1589,1999,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+362,6,Croatia Avenue,42,76,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+363,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+364,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+365,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+366,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+367,35,Leicester Place,0,660,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+368,2,Fladgate Drive,0,565,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+369,13,Puriri Dale Way,0,293,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+370,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+371,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+372,24,George Noble Road,0,272,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+373,20,Burkes Creek Road,765,1789,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+374,9,Kowhai Glen,0,305,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+375,37,Freemason Avenue,0,149,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+376,32,Karearea Lane,0,56,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+377,15,Fendall Close,0,438,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+378,7,Lumbarda Drive,0,152,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+379,38,Tyler Place,322,334,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+380,9339,Weston Way,814,886,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+381,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+382,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+383,36,Paneika Lane,370,391,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+384,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+385,32,Karearea Lane,0,56,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+386,9339,Weston Way,3114,3398,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+387,35,Leicester Place,0,660,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+388,37,Freemason Avenue,172,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+389,32,Karearea Lane,0,56,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+390,25,Founders Lane,0,597,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+391,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+392,11,Lower Ahu Ahu Road,158,179,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+393,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+394,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+395,1092,Bronte Road East,0,156,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+396,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+397,11,Lower Ahu Ahu Road,0,158,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+398,27,Gallop Lane,116,136,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+399,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+400,22,Sir John McKenzie Drive,0,530,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+401,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+402,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+403,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+404,29,Riroriro Road,122,139,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+405,3,Matai Way,0,557,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+406,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+407,32,Karearea Lane,154,820,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+408,1037,Epiha Road Upper,0,415,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+409,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+410,1092,Bronte Road East,0,156,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+411,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+412,9339,Weston Way,1589,1999,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+413,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+414,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+415,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+416,36,Paneika Lane,0,370,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+417,974,Railway Terrace East,0,730,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+418,9339,Weston Way,2696,3114,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+419,15,Fendall Close,585,643,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+420,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+421,1038,Gossey Drive North,1319,1723,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+422,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+423,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+424,6,Croatia Avenue,0,42,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+425,40,Bravery Road,0,278,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+426,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+427,9339,Weston Way,1589,1999,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+428,32,Karearea Lane,820,1262,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+429,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+430,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+431,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+432,26,Stud Road,0,205,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+433,20,Burkes Creek Road,765,1789,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+434,38,Tyler Place,334,389,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+435,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+436,9,Kowhai Glen,0,305,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+437,1092,Bronte Road East,156,183,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+438,11,Lower Ahu Ahu Road,0,158,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+439,33,Okoare Lane,0,58,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+440,9339,Weston Way,1051,1219,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+441,15,Fendall Close,438,585,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+442,8,Tarras Road,0,86,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+443,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+444,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+445,9339,Weston Way,3114,3398,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+446,29,Riroriro Road,0,122,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+447,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+448,15,Fendall Close,643,736,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+449,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+450,11,Lower Ahu Ahu Road,0,158,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+451,38,Tyler Place,279,322,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+452,9339,Weston Way,886,939,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+453,41,Huamanu Street,116,134,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+454,917,Port Street East,1431,2115,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+455,21,Tapeka Heights Lane,0,277,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+456,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+457,15,Fendall Close,736,814,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+458,29,Riroriro Road,122,139,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+459,44,Dickins Lane,0,474,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+460,43,Infantry Lane,0,95,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+461,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+462,20,Burkes Creek Road,697,765,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+463,11,Lower Ahu Ahu Road,158,179,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+464,3,Matai Way,0,557,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+465,16,Sarah Lane,0,515,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+466,15,Fendall Close,643,736,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+467,917,Port Street East,1340,1431,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+468,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+469,9339,Weston Way,965,1051,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+470,36,Paneika Lane,391,520,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+471,9339,Weston Way,3398,3457,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+472,15,Fendall Close,0,438,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+473,4,Highfield Drive,0,71,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+474,1,Conifer Close,0,378,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+475,36,Paneika Lane,370,391,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+476,917,Port Street East,396,874,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+477,10,Upper Ahu Ahu Road,46,68,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+478,5,Vintry Drive,0,362,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+479,9339,Weston Way,814,886,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+480,9167,Foxglove Drive,0,668,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+481,9339,Weston Way,2385,2696,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+482,38,Tyler Place,0,279,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+483,43,Infantry Lane,0,95,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+484,19,Elm Close,0,82,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+485,6,Croatia Avenue,42,76,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+486,7056,Dawick Street,78,88,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+487,41,Huamanu Street,0,116,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+488,23,Apple Orchard Lane,0,185,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+489,15,Fendall Close,643,736,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+490,9339,Weston Way,1051,1219,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+491,13,Puriri Dale Way,0,293,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+492,37,Freemason Avenue,149,172,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+493,20,Burkes Creek Road,549,697,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+494,8,Tarras Road,86,120,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+495,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac
+496,30,Curly McLeod Way,0,69,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+497,917,Port Street East,874,1340,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+498,917,Port Street East,2120,2350,All,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal,seal
+499,1035,Cousins Avenue East,0,61,All,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac

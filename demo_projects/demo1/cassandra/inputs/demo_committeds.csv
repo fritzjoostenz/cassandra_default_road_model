@@ -1,0 +1,4 @@
+section_id,loc_from,loc_to,lane,area_m2,elem_index,treatment,period_calendar,treatment_cost,treatment_qty,treatment_comment,treatment_reason
+10,0,46,All,368,14,ChipSeal_P,2024,-1,368,committed import,committed
+32,84,154,All,792,74,ChipSeal_P,2024,-1,792,committed import,committed
+32,154,820,All,7721,75,ChipSeal_P,2024,-1,7721,committed import,committed

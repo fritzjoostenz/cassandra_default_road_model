@@ -1,0 +1,368 @@
+file_section_id,file_section_name,file_loc_from,file_loc_to,file_lane_name,elem_index,treatment,treat_category,budget_category,period,period_calendar,forced,follow_up,treatment_cost,treatment_qty,treatment_comment,treatment_reason,is_committed
+10,Upper Ahu Ahu Road,0,46,All,14,ChipSeal_P,Preserve,Renewals,1,2024,True,False,3680,368,committed import,committed,True
+32,Karearea Lane,84,154,All,74,ChipSeal_P,Preserve,Renewals,1,2024,True,False,7920,792,committed import,committed,True
+32,Karearea Lane,154,820,All,75,ChipSeal_P,Preserve,Renewals,1,2024,True,False,77210,7721,committed import,committed,True
+9339,Weston Way,1051,1219,All,115,ChipSeal_P,Preserve,Renewals,1,2024,False,False,37300,3730,mesh_cracks =0; shove =0; poth =0.22,pdi =4.6; sdi =36.09; age =16,False
+15,Fendall Close,736,814,All,321,ChipSeal_P,Preserve,Renewals,1,2024,False,False,17630,1763,mesh_cracks =10.57; shove =4.95; poth =0,pdi =21.96; sdi =16.09; age =22,False
+9339,Weston Way,1051,1219,All,197,ChipSeal_P,Preserve,Renewals,1,2024,False,False,37300,3730,mesh_cracks =0; shove =0; poth =0,pdi =2.67; sdi =22.01; age =16,False
+9339,Weston Way,1999,2369,All,314,ChipSeal_P,Preserve,Renewals,1,2024,False,False,48630,4863,mesh_cracks =11.16; shove =0; poth =0,pdi =11.16; sdi =27.58; age =16,False
+9339,Weston Way,1237,1589,All,231,ChipSeal_P,Preserve,Renewals,1,2024,False,False,45420,4542,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =7.41; age =16,False
+9339,Weston Way,1999,2369,All,146,Preseal_CS,Holding,Renewals,1,2024,False,False,48630,48630,mesh_cracks =15.63; shove =0; poth =0,pdi =15.63; sdi =0; age =16,False
+9339,Weston Way,1999,2369,All,481,ChipSeal_P,Preserve,Renewals,1,2024,False,False,48630,4863,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =11.26; age =16,False
+9339,Weston Way,814,886,All,107,ThinAC_P,Preserve,Renewals,1,2024,False,False,82750,1655,mesh_cracks =7.18; shove =7.17; poth =0,pdi =21.93; sdi =18.94; age =22,False
+9339,Weston Way,1589,1999,All,332,ChipSeal_P,Preserve,Renewals,1,2024,False,False,54530,5453,mesh_cracks =0; shove =0; poth =0.08,pdi =2.38; sdi =4.68; age =16,False
+15,Fendall Close,0,438,All,363,ChipSeal_P,Preserve,Renewals,1,2024,False,False,54800,5480,mesh_cracks =0; shove =0; poth =0,pdi =6.24; sdi =41.76; age =11,False
+9339,Weston Way,1237,1589,All,125,ChipSeal_P,Preserve,Renewals,1,2024,False,False,45420,4542,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =1.84; age =16,False
+9339,Weston Way,1999,2369,All,249,ChipSeal_P,Preserve,Renewals,1,2024,False,False,48630,4863,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =7.71; age =16,False
+38,Tyler Place,334,389,All,109,ChipSeal_P,Preserve,Renewals,1,2024,False,False,5830,583,mesh_cracks =0; shove =0; poth =0,pdi =6; sdi =33.5; age =32,False
+15,Fendall Close,736,814,All,31,ChipSeal_P,Preserve,Renewals,1,2024,False,False,17630,1763,mesh_cracks =0; shove =1; poth =0,pdi =1.04; sdi =0.1; age =22,False
+15,Fendall Close,0,438,All,117,ChipSeal_P,Preserve,Renewals,1,2024,False,False,54800,5480,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =26.54; age =11,False
+15,Fendall Close,0,438,All,226,Preseal_CS,Holding,Renewals,1,2024,False,False,54800,54800,mesh_cracks =0; shove =10.29; poth =0,pdi =17.17; sdi =17.2; age =11,False
+9339,Weston Way,2385,2696,All,388,ChipSeal_P,Preserve,Renewals,1,2024,False,False,39190,3919,mesh_cracks =1.25; shove =0; poth =0,pdi =9.21; sdi =40.89; age =16,False
+37,Freemason Avenue,0,149,All,488,ChipSeal_P,Preserve,Renewals,1,2024,False,False,19370,1937,mesh_cracks =0; shove =0; poth =0,pdi =3.73; sdi =23.78; age =16,False
+917,Port Street East,1340,1431,All,390,ChipSeal_P,Preserve,Renewals,1,2024,False,False,4870,487,mesh_cracks =0; shove =6.25; poth =0,pdi =11.75; sdi =40.68; age =19,False
+32,Karearea Lane,84,154,All,259,Preseal_CS,Holding,Renewals,1,2024,False,False,4752,4752,mesh_cracks =15.66; shove =0; poth =0,pdi =17.57; sdi =4.79; age =28,False
+1092,Bronte Road East,0,156,All,468,ChipSeal_P,Preserve,Renewals,1,2024,False,False,12480,1248,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =28.1; age =20,False
+39,Ashlar Court,0,251,All,492,ChipSeal_P,Preserve,Renewals,1,2024,False,False,21080,2108,mesh_cracks =0; shove =0; poth =0.04,pdi =0.41; sdi =33.87; age =23,False
+13,Puriri Dale Way,0,293,All,354,Preseal_CS,Holding,Renewals,1,2024,False,False,20256,20256,mesh_cracks =6.51; shove =9.31; poth =0,pdi =16.24; sdi =6.83; age =18,False
+9339,Weston Way,1237,1589,All,36,ChipSeal_P,Preserve,Renewals,1,2024,False,False,45420,4542,mesh_cracks =0.3; shove =2.5; poth =0.01,pdi =2.9; sdi =0.1; age =16,False
+7056,Dawick Street,0,78,All,473,Preseal_CS,Holding,Renewals,1,2024,False,False,3840,3840,mesh_cracks =15.91; shove =0; poth =0,pdi =16.22; sdi =27.71; age =8,False
+917,Port Street East,2120,2350,All,113,ChipSeal_P,Preserve,Renewals,1,2024,False,False,13340,1334,mesh_cracks =0; shove =4.58; poth =0,pdi =7.53; sdi =27.6; age =16,False
+38,Tyler Place,334,389,All,273,ChipSeal_P,Preserve,Renewals,1,2024,False,False,5830,583,mesh_cracks =0; shove =0; poth =0,pdi =5.43; sdi =16.32; age =32,False
+917,Port Street East,2120,2350,All,457,ChipSeal_P,Preserve,Renewals,1,2024,False,False,13340,1334,mesh_cracks =9.69; shove =0; poth =0,pdi =9.69; sdi =21.25; age =16,False
+4,Highfield Drive,0,71,All,301,Preseal_CS,Holding,Renewals,1,2024,False,False,2982,2982,mesh_cracks =17.25; shove =0; poth =0,pdi =18.25; sdi =2.49; age =16,False
+9339,Weston Way,1999,2369,All,146,ChipSeal_H,Holding,Renewals,2,2025,True,False,48630,4863,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,0,438,All,226,ChipSeal_H,Holding,Renewals,2,2025,True,False,54800,5480,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+32,Karearea Lane,84,154,All,259,ChipSeal_H,Holding,Renewals,2,2025,True,False,7920,792,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+4,Highfield Drive,0,71,All,301,ChipSeal_H,Holding,Renewals,2,2025,True,False,4970,497,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+13,Puriri Dale Way,0,293,All,354,ChipSeal_H,Holding,Renewals,2,2025,True,False,33760,3376,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+7056,Dawick Street,0,78,All,473,ChipSeal_H,Holding,Renewals,2,2025,True,False,6400,640,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,736,814,All,381,ChipSeal_P,Preserve,Renewals,2,2025,False,False,17630,1763,mesh_cracks =0.32; shove =0.08; poth =0.08,pdi =9.22; sdi =21.09; age =23,False
+1037,Epiha Road Upper,0,415,All,183,ChipSeal_P,Preserve,Renewals,2,2025,False,False,37350,3735,mesh_cracks =0.13; shove =1; poth =0.1,pdi =2.18; sdi =30.42; age =11,False
+1037,Epiha Road Upper,0,415,All,342,ChipSeal_P,Preserve,Renewals,2,2025,False,False,37350,3735,mesh_cracks =0.17; shove =8.01; poth =0.1,pdi =14.88; sdi =25.26; age =11,False
+1038,Gossey Drive North,1319,1723,All,138,ChipSeal_P,Preserve,Renewals,2,2025,False,False,36360,3636,mesh_cracks =18.44; shove =3.79; poth =0.1,pdi =32.54; sdi =24.37; age =11,False
+9339,Weston Way,886,939,All,373,ThinAC_P,Preserve,Renewals,2,2025,False,False,60950,1219,mesh_cracks =13.98; shove =0.08; poth =1.31,pdi =27.27; sdi =13.43; age =12,False
+9339,Weston Way,1051,1219,All,260,ChipSeal_P,Preserve,Renewals,2,2025,False,False,37300,3730,mesh_cracks =0.23; shove =0.08; poth =0.08,pdi =2.66; sdi =4.9; age =17,False
+15,Fendall Close,736,814,All,163,ChipSeal_P,Preserve,Renewals,2,2025,False,False,17630,1763,mesh_cracks =1.96; shove =0.08; poth =0.08,pdi =2.86; sdi =1.09; age =23,False
+9339,Weston Way,1999,2369,All,244,ChipSeal_P,Preserve,Renewals,2,2025,False,False,48630,4863,mesh_cracks =0.17; shove =0.08; poth =0.07,pdi =2.86; sdi =5.57; age =17,False
+9339,Weston Way,1589,1999,All,37,ChipSeal_P,Preserve,Renewals,2,2025,False,False,54530,5453,mesh_cracks =0.53; shove =2.66; poth =0.12,pdi =4.44; sdi =1.54; age =17,False
+9339,Weston Way,1589,1999,All,128,ChipSeal_P,Preserve,Renewals,2,2025,False,False,54530,5453,mesh_cracks =0.23; shove =0.08; poth =0.08,pdi =1.16; sdi =1.14; age =17,False
+9339,Weston Way,1589,1999,All,313,ChipSeal_P,Preserve,Renewals,2,2025,False,False,54530,5453,mesh_cracks =0.23; shove =0.08; poth =0.08,pdi =1.16; sdi =1.14; age =17,False
+7056,Dawick Street,0,78,All,482,Preseal_CS,Holding,Renewals,2,2025,False,False,7680,7680,mesh_cracks =3.35; shove =8.97; poth =0,pdi =20.37; sdi =27.84; age =9,False
+9339,Weston Way,1589,1999,All,199,ChipSeal_P,Preserve,Renewals,2,2025,False,False,54530,5453,mesh_cracks =8.33; shove =0.08; poth =0.08,pdi =9.27; sdi =1.15; age =17,False
+20,Burkes Creek Road,21,520,All,432,Preseal_CS,Holding,Renewals,2,2025,False,False,66140,66140.00000000001,mesh_cracks =17.09; shove =1; poth =0.1,pdi =19.14; sdi =1.22; age =11,False
+20,Burkes Creek Road,21,520,All,369,ChipSeal_P,Preserve,Renewals,2,2025,False,False,66140,6614,mesh_cracks =0.22; shove =1; poth =0.1,pdi =10.59; sdi =42.61; age =11,False
+9339,Weston Way,2385,2696,All,460,ChipSeal_P,Preserve,Renewals,2,2025,False,False,39190,3919,mesh_cracks =0.16; shove =0.08; poth =0.07,pdi =1.97; sdi =23.58; age =17,False
+7056,Dawick Street,0,78,All,296,Preseal_CS,Holding,Renewals,2,2025,False,False,7680,7680,mesh_cracks =20.89; shove =0; poth =0,pdi =20.93; sdi =0.1; age =9,False
+1035,Cousins Avenue East,0,61,All,410,RehabAC_UL,Rehab_ac,Renewals,2,2025,False,False,68320,427,mesh_cracks =21.31; shove =0.07; poth =1.32,pdi =34.59; sdi =13.4; age =29,False
+16,Sarah Lane,0,515,All,405,ChipSeal_P,Preserve,Renewals,2,2025,False,False,46020,4602,mesh_cracks =3.01; shove =0.08; poth =0.07,pdi =3.88; sdi =34.88; age =17,False
+4,Highfield Drive,0,71,All,323,ChipSeal_P,Preserve,Renewals,2,2025,False,False,4970,497,mesh_cracks =0.17; shove =0.07; poth =0.07,pdi =10.18; sdi =23.89; age =17,False
+23,Apple Orchard Lane,0,185,All,187,ChipSeal_P,Preserve,Renewals,2,2025,False,False,18500,1850,mesh_cracks =17.06; shove =0.08; poth =0.08,pdi =24.99; sdi =46.28; age =38,False
+27,Gallop Lane,0,116,All,386,Preseal_CS,Holding,Renewals,2,2025,False,False,5706,5706.000000000001,mesh_cracks =0.13; shove =14.58; poth =0,pdi =17.81; sdi =7.78; age =9,False
+7056,Dawick Street,0,78,All,296,ChipSeal_H,Holding,Renewals,3,2026,True,False,6400,640,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+27,Gallop Lane,0,116,All,386,ChipSeal_H,Holding,Renewals,3,2026,True,False,9510,951,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+20,Burkes Creek Road,21,520,All,432,ChipSeal_H,Holding,Renewals,3,2026,True,False,66140,6614,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+7056,Dawick Street,0,78,All,482,ChipSeal_H,Holding,Renewals,3,2026,True,False,6400,640,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,886,939,All,419,Preseal_AC,Holding,Renewals,3,2026,False,False,14628,14628,mesh_cracks =0.84; shove =7.55; poth =0.1,pdi =18.89; sdi =24.93; age =13,False
+15,Fendall Close,438,585,All,429,ChipSeal_P,Preserve,Renewals,3,2026,False,False,18520,1852,mesh_cracks =1.09; shove =0; poth =0,pdi =1.15; sdi =54.83; age =9,False
+15,Fendall Close,438,585,All,442,ChipSeal_P,Preserve,Renewals,3,2026,False,False,18520,1852,mesh_cracks =4.08; shove =0; poth =0,pdi =7.29; sdi =64.36; age =9,False
+15,Fendall Close,438,585,All,305,ChipSeal_P,Preserve,Renewals,3,2026,False,False,18520,1852,mesh_cracks =1.09; shove =0; poth =0,pdi =1.15; sdi =20.79; age =9,False
+15,Fendall Close,585,643,All,452,Preseal_CS,Holding,Renewals,3,2026,False,False,14620,14620.000000000002,mesh_cracks =28.02; shove =0; poth =0,pdi =28.22; sdi =55.14; age =9,False
+9339,Weston Way,1051,1219,All,35,ChipSeal_P,Preserve,Renewals,3,2026,False,False,37300,3730,mesh_cracks =0.48; shove =0.17; poth =0.16,pdi =2.41; sdi =2.38; age =18,False
+9339,Weston Way,1051,1219,All,285,ChipSeal_P,Preserve,Renewals,3,2026,False,False,37300,3730,mesh_cracks =0.48; shove =0.17; poth =0.16,pdi =2.41; sdi =2.38; age =18,False
+9339,Weston Way,1051,1219,All,498,ChipSeal_P,Preserve,Renewals,3,2026,False,False,37300,3730,mesh_cracks =0.48; shove =0.17; poth =0.16,pdi =2.41; sdi =2.38; age =18,False
+20,Burkes Creek Road,697,765,All,469,Preseal_AC,Holding,Renewals,3,2026,False,False,21216,21216,mesh_cracks =24.5; shove =0; poth =0,pdi =24.6; sdi =0.27; age =12,False
+9339,Weston Way,1999,2369,All,38,ChipSeal_P,Preserve,Renewals,3,2026,False,False,48630,4863,mesh_cracks =1.48; shove =2.8; poth =0.23,pdi =6.67; sdi =2.9; age =18,False
+1037,Epiha Road Upper,0,415,All,102,ChipSeal_P,Preserve,Renewals,3,2026,False,False,37350,3735,mesh_cracks =0.29; shove =1.07; poth =0.71,pdi =8.58; sdi =8.56; age =12,False
+11,Lower Ahu Ahu Road,0,158,All,255,Preseal_CS,Holding,Renewals,3,2026,False,False,7584,7584,mesh_cracks =0.39; shove =1; poth =0.77,pdi =20; sdi =89.42; age =10,False
+9339,Weston Way,1999,2369,All,459,ChipSeal_P,Preserve,Renewals,3,2026,False,False,48630,4863,mesh_cracks =3.09; shove =0.16; poth =0.16,pdi =4.93; sdi =2.2; age =18,False
+20,Burkes Creek Road,549,697,All,262,Preseal_CS,Holding,Renewals,3,2026,False,False,19240,19240,mesh_cracks =16.64; shove =0.16; poth =0.16,pdi =18.77; sdi =2.86; age =14,False
+29,Riroriro Road,0,122,All,162,ChipSeal_P,Preserve,Renewals,3,2026,False,False,7560,756,mesh_cracks =0.24; shove =0; poth =0.1,pdi =1.33; sdi =50.56; age =10,False
+9339,Weston Way,814,886,All,477,ThinAC_P,Preserve,Renewals,3,2026,False,False,82750,1655,mesh_cracks =0.48; shove =12.02; poth =0.16,pdi =14.34; sdi =2.45; age =24,False
+29,Riroriro Road,0,122,All,304,ChipSeal_P,Preserve,Renewals,3,2026,False,False,7560,756,mesh_cracks =0.31; shove =0; poth =0.1,pdi =9.24; sdi =68.81; age =10,False
+24,George Noble Road,0,272,All,461,ChipSeal_P,Preserve,Renewals,3,2026,False,False,22110,2211,mesh_cracks =0.55; shove =1; poth =0.1,pdi =13.77; sdi =64.96; age =11,False
+29,Riroriro Road,0,122,All,293,Preseal_CS,Holding,Renewals,3,2026,False,False,4536,4536.000000000001,mesh_cracks =15.69; shove =1; poth =0.1,pdi =19.38; sdi =6.24; age =10,False
+38,Tyler Place,0,279,All,341,Preseal_CS,Holding,Renewals,3,2026,False,False,12054,12054,mesh_cracks =16.98; shove =0.17; poth =0.16,pdi =18.87; sdi =23.96; age =19,False
+20,Burkes Creek Road,549,697,All,133,ChipSeal_P,Preserve,Renewals,3,2026,False,False,19240,1924,mesh_cracks =0.3; shove =0.16; poth =0.16,pdi =2.15; sdi =11; age =14,False
+28,Stirrup Lane,0,261,All,329,ChipSeal_P,Preserve,Renewals,3,2026,False,False,25580,2558,mesh_cracks =0.33; shove =1; poth =0.1,pdi =2.46; sdi =35.99; age =10,False
+40,Bravery Road,0,278,All,409,ThinAC_P,Preserve,Renewals,3,2026,False,False,158650,3173,mesh_cracks =0.35; shove =1; poth =0,pdi =3.39; sdi =40.54; age =16,False
+9339,Weston Way,2385,2696,All,214,ChipSeal_P,Preserve,Renewals,3,2026,False,False,39190,3919,mesh_cracks =14.3; shove =0.17; poth =0.16,pdi =16.18; sdi =22.18; age =18,False
+9339,Weston Way,814,886,All,32,ThinAC_P,Preserve,Renewals,3,2026,False,False,82750,1655,mesh_cracks =10.32; shove =0.17; poth =0.16,pdi =12.17; sdi =2.14; age =24,False
+9339,Weston Way,3114,3398,All,380,ChipSeal_P,Preserve,Renewals,3,2026,False,False,35780,3578,mesh_cracks =0.46; shove =0.16; poth =0.16,pdi =10.62; sdi =31.42; age =18,False
+13,Puriri Dale Way,0,293,All,450,ChipSeal_P,Preserve,Renewals,3,2026,False,False,33760,3376,mesh_cracks =0.35; shove =0.16; poth =1.31,pdi =13.72; sdi =49.96; age =20,False
+11,Lower Ahu Ahu Road,0,158,All,255,ChipSeal_H,Holding,Renewals,4,2027,True,False,12640,1264,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+20,Burkes Creek Road,549,697,All,262,ChipSeal_H,Holding,Renewals,4,2027,True,False,19240,1924,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+29,Riroriro Road,0,122,All,293,ChipSeal_H,Holding,Renewals,4,2027,True,False,7560,756,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+38,Tyler Place,0,279,All,341,ChipSeal_H,Holding,Renewals,4,2027,True,False,20090,2009,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,886,939,All,419,ThinAC_H,Holding,Renewals,4,2027,True,False,60950,1219,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,585,643,All,452,ChipSeal_H,Holding,Renewals,4,2027,True,False,7310,731,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+20,Burkes Creek Road,697,765,All,469,ThinAC_H,Holding,Renewals,4,2027,True,False,44200,884,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,643,736,All,152,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19020,1902,mesh_cracks =0.83; shove =1.08; poth =0.18,pdi =9.59; sdi =18.77; age =10,False
+15,Fendall Close,643,736,All,30,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19020,1902,mesh_cracks =3.76; shove =1.08; poth =0.18,pdi =7.34; sdi =5.81; age =10,False
+15,Fendall Close,643,736,All,352,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19020,1902,mesh_cracks =0.67; shove =1.08; poth =0.18,pdi =3.78; sdi =4.64; age =10,False
+9339,Weston Way,886,939,All,424,ThinAC_P,Preserve,Renewals,4,2027,False,False,60950,1219,mesh_cracks =0.8; shove =1.17; poth =0.35,pdi =5.86; sdi =5.74; age =14,False
+9339,Weston Way,886,939,All,33,ThinAC_P,Preserve,Renewals,4,2027,False,False,60950,1219,mesh_cracks =0.8; shove =1.17; poth =0.18,pdi =4.11; sdi =4; age =14,False
+9339,Weston Way,886,939,All,188,ThinAC_P,Preserve,Renewals,4,2027,False,False,60950,1219,mesh_cracks =0.8; shove =1.17; poth =0.18,pdi =4.11; sdi =4; age =14,False
+9339,Weston Way,886,939,All,456,ThinAC_P,Preserve,Renewals,4,2027,False,False,60950,1219,mesh_cracks =0.8; shove =1.17; poth =0.18,pdi =4.11; sdi =4; age =14,False
+20,Burkes Creek Road,549,697,All,235,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19240,1924,mesh_cracks =0.64; shove =0.24; poth =0.24,pdi =12.25; sdi =25.3; age =15,False
+1037,Epiha Road Upper,0,415,All,12,ChipSeal_P,Preserve,Renewals,4,2027,False,False,37350,3735,mesh_cracks =0.46; shove =1.16; poth =0.25,pdi =4.35; sdi =4.8; age =13,False
+15,Fendall Close,438,585,All,28,ChipSeal_P,Preserve,Renewals,4,2027,False,False,18520,1852,mesh_cracks =1.19; shove =1; poth =0.1,pdi =3.29; sdi =3.43; age =10,False
+1038,Gossey Drive North,1319,1723,All,13,ChipSeal_P,Preserve,Renewals,4,2027,False,False,36360,3636,mesh_cracks =0.46; shove =1.16; poth =0.25,pdi =4.35; sdi =4.35; age =13,False
+1038,Gossey Drive North,1319,1723,All,306,ChipSeal_P,Preserve,Renewals,4,2027,False,False,36360,3636,mesh_cracks =0.46; shove =1.16; poth =0.25,pdi =4.35; sdi =4.35; age =13,False
+15,Fendall Close,438,585,All,222,ChipSeal_P,Preserve,Renewals,4,2027,False,False,18520,1852,mesh_cracks =1.19; shove =1; poth =0.1,pdi =3.29; sdi =3.32; age =10,False
+15,Fendall Close,438,585,All,276,ChipSeal_P,Preserve,Renewals,4,2027,False,False,18520,1852,mesh_cracks =1.19; shove =1; poth =0.1,pdi =3.29; sdi =3.32; age =10,False
+15,Fendall Close,438,585,All,399,ChipSeal_P,Preserve,Renewals,4,2027,False,False,18520,1852,mesh_cracks =3.98; shove =1; poth =0.1,pdi =6.08; sdi =3.32; age =10,False
+1037,Epiha Road Upper,0,415,All,141,ChipSeal_P,Preserve,Renewals,4,2027,False,False,37350,3735,mesh_cracks =0.46; shove =1.16; poth =0.25,pdi =4.35; sdi =4.35; age =13,False
+28,Stirrup Lane,0,261,All,474,Preseal_CS,Holding,Renewals,4,2027,False,False,30696,30696,mesh_cracks =19.4; shove =1.08; poth =0.18,pdi =22.48; sdi =4.51; age =11,False
+15,Fendall Close,0,438,All,253,ChipSeal_P,Preserve,Renewals,4,2027,False,False,54800,5480,mesh_cracks =0.66; shove =0.25; poth =0.24,pdi =9.72; sdi =19.83; age =14,False
+20,Burkes Creek Road,21,520,All,490,ChipSeal_P,Preserve,Renewals,4,2027,False,False,66140,6614,mesh_cracks =0.92; shove =1.16; poth =0.26,pdi =17.61; sdi =36.35; age =13,False
+37,Freemason Avenue,0,149,All,155,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19370,1937,mesh_cracks =0.54; shove =0.24; poth =0.24,pdi =11.08; sdi =23.59; age =19,False
+27,Gallop Lane,0,116,All,237,ChipSeal_P,Preserve,Renewals,4,2027,False,False,9510,951,mesh_cracks =0.67; shove =1.07; poth =0.17,pdi =17.56; sdi =45.42; age =11,False
+29,Riroriro Road,0,122,All,464,ChipSeal_P,Preserve,Renewals,4,2027,False,False,7560,756,mesh_cracks =0.64; shove =1; poth =0.17,pdi =17.4; sdi =38.89; age =11,False
+27,Gallop Lane,0,116,All,485,ChipSeal_P,Preserve,Renewals,4,2027,False,False,9510,951,mesh_cracks =0.39; shove =1; poth =0.17,pdi =3.27; sdi =29.1; age =11,False
+21,Tapeka Heights Lane,0,277,All,360,ChipSeal_P,Preserve,Renewals,4,2027,False,False,36010,3601,mesh_cracks =0.69; shove =0.26; poth =0.24,pdi =3.67; sdi =24.95; age =20,False
+29,Riroriro Road,0,122,All,364,ChipSeal_P,Preserve,Renewals,4,2027,False,False,7560,756,mesh_cracks =0.52; shove =1; poth =0.17,pdi =14.04; sdi =30.78; age =11,False
+917,Port Street East,2120,2350,All,300,ChipSeal_P,Preserve,Renewals,4,2027,False,False,13340,1334,mesh_cracks =0.48; shove =1.15; poth =0.25,pdi =15.41; sdi =32.96; age =19,False
+37,Freemason Avenue,172,362,All,103,ChipSeal_P,Preserve,Renewals,4,2027,False,False,19000,1900,mesh_cracks =0.97; shove =0.25; poth =0.24,pdi =12.91; sdi =26.91; age =19,False
+9339,Weston Way,3398,3457,All,451,ChipSeal_P,Preserve,Renewals,4,2027,False,False,7430,743,mesh_cracks =0.41; shove =0.23; poth =0.24,pdi =9.25; sdi =19.37; age =22,False
+4,Highfield Drive,0,71,All,382,ChipSeal_P,Preserve,Renewals,4,2027,False,False,4970,497,mesh_cracks =0.37; shove =0.23; poth =0.24,pdi =3.11; sdi =13.28; age =19,False
+28,Stirrup Lane,0,261,All,474,ChipSeal_H,Holding,Renewals,5,2028,True,False,25580,2558,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+20,Burkes Creek Road,0,21,All,236,ChipSeal_P,Preserve,Renewals,5,2028,False,False,2730,273,mesh_cracks =0.7; shove =1.25; poth =0.45,pdi =6.73; sdi =47.16; age =14,False
+20,Burkes Creek Road,0,21,All,217,ChipSeal_P,Preserve,Renewals,5,2028,False,False,2730,273,mesh_cracks =1.18; shove =5.6; poth =0.35,pdi =23.52; sdi =92.51; age =14,False
+20,Burkes Creek Road,0,21,All,215,Preseal_CS,Holding,Renewals,5,2028,False,False,5460,5460,mesh_cracks =0.72; shove =23.93; poth =0.37,pdi =29.6; sdi =8.41; age =14,False
+20,Burkes Creek Road,697,765,All,371,ThinAC_P,Preserve,Renewals,5,2028,False,False,44200,884,mesh_cracks =0.65; shove =0; poth =0,pdi =0.92; sdi =24.63; age =14,False
+20,Burkes Creek Road,697,765,All,210,ThinAC_P,Preserve,Renewals,5,2028,False,False,44200,884,mesh_cracks =0.92; shove =0; poth =0,pdi =11.98; sdi =28.73; age =14,False
+20,Burkes Creek Road,697,765,All,440,ThinAC_P,Preserve,Renewals,5,2028,False,False,44200,884,mesh_cracks =0.81; shove =8.65; poth =0.1,pdi =17.85; sdi =28.1; age =14,False
+38,Tyler Place,322,334,All,275,ChipSeal_P,Preserve,Renewals,5,2028,False,False,1200,120,mesh_cracks =3.38; shove =0; poth =0,pdi =17.63; sdi =36.63; age =11,False
+20,Burkes Creek Road,0,21,All,326,ChipSeal_P,Preserve,Renewals,5,2028,False,False,2730,273,mesh_cracks =0.7; shove =1.25; poth =1,pdi =12.22; sdi =12.25; age =14,False
+40,Bravery Road,0,278,All,431,ThinAC_P,Preserve,Renewals,5,2028,False,False,158650,3173,mesh_cracks =1.07; shove =1.16; poth =0.18,pdi =13.7; sdi =28.31; age =18,False
+974,Railway Terrace East,0,730,All,404,ChipSeal_P,Preserve,Renewals,5,2028,False,False,53940,5394,mesh_cracks =0.59; shove =0; poth =0,pdi =7.61; sdi =57.58; age =14,False
+38,Tyler Place,322,334,All,182,ChipSeal_P,Preserve,Renewals,5,2028,False,False,1200,120,mesh_cracks =1.09; shove =0; poth =0,pdi =1.22; sdi =24.32; age =11,False
+20,Burkes Creek Road,697,765,All,344,ThinAC_P,Preserve,Renewals,5,2028,False,False,44200,884,mesh_cracks =0.65; shove =0; poth =1.66,pdi =17.56; sdi =18.4; age =14,False
+36,Paneika Lane,370,391,All,334,ChipSeal_P,Preserve,Renewals,5,2028,False,False,2310,231,mesh_cracks =0.83; shove =0.34; poth =0.34,pdi =10.85; sdi =57.29; age =24,False
+20,Burkes Creek Road,697,765,All,212,ThinAC_P,Preserve,Renewals,5,2028,False,False,44200,884,mesh_cracks =0.68; shove =0; poth =0.26,pdi =3.69; sdi =12.65; age =14,False
+40,Bravery Road,0,278,All,476,ThinAC_P,Preserve,Renewals,5,2028,False,False,158650,3173,mesh_cracks =0.9; shove =1.16; poth =0.84,pdi =17.33; sdi =27.82; age =18,False
+974,Railway Terrace East,0,730,All,149,ChipSeal_P,Preserve,Renewals,5,2028,False,False,53940,5394,mesh_cracks =1.39; shove =0; poth =0.34,pdi =4.91; sdi =39.61; age =14,False
+20,Burkes Creek Road,0,21,All,397,Preseal_CS,Holding,Renewals,5,2028,False,False,10920,10920,mesh_cracks =22.99; shove =1.27; poth =0.35,pdi =41.53; sdi =39.4; age =14,False
+15,Fendall Close,0,438,All,27,ChipSeal_P,Preserve,Renewals,5,2028,False,False,54800,5480,mesh_cracks =1.82; shove =0.34; poth =0.35,pdi =6.05; sdi =7.06; age =15,False
+38,Tyler Place,279,322,All,101,ThinAC_P,Preserve,Renewals,5,2028,False,False,15500,310,mesh_cracks =0.8; shove =0.35; poth =0.34,pdi =4.89; sdi =25.88; age =36,False
+38,Tyler Place,279,322,All,499,ThinAC_P,Preserve,Renewals,5,2028,False,False,15500,310,mesh_cracks =1.26; shove =0.35; poth =0.34,pdi =15.6; sdi =30.62; age =36,False
+20,Burkes Creek Road,549,697,All,53,ChipSeal_P,Preserve,Renewals,5,2028,False,False,19240,1924,mesh_cracks =1.72; shove =0.34; poth =0.38,pdi =6.12; sdi =6.25; age =16,False
+38,Tyler Place,279,322,All,400,ThinAC_P,Preserve,Renewals,5,2028,False,False,15500,310,mesh_cracks =0.8; shove =0.35; poth =0.34,pdi =4.89; sdi =24.53; age =36,False
+6,Croatia Avenue,0,42,All,119,RehabCS_UL,Rehab_cs,Renewals,5,2028,False,False,40320,336,mesh_cracks =47.65; shove =1.16; poth =0.33,pdi =52.31; sdi =6.03; age =13,False
+18,Monaghan Way,0,80,All,370,RehabCS_UL,Rehab_cs,Renewals,5,2028,False,False,77760,648,mesh_cracks =48.16; shove =0; poth =0,pdi =60.52; sdi =30.91; age =10,False
+974,Railway Terrace East,0,730,All,295,ChipSeal_P,Preserve,Renewals,5,2028,False,False,53940,5394,mesh_cracks =0.74; shove =0; poth =0,pdi =14.12; sdi =33.44; age =14,False
+36,Paneika Lane,370,391,All,437,ChipSeal_P,Preserve,Renewals,5,2028,False,False,2310,231,mesh_cracks =6.27; shove =0.34; poth =0.34,pdi =10.29; sdi =29.4; age =24,False
+43,Infantry Lane,0,95,All,254,Preseal_CS,Holding,Renewals,5,2028,False,False,3984,3984.0000000000005,mesh_cracks =16.38; shove =0.33; poth =0.86,pdi =25.51; sdi =9.72; age =23,False
+20,Burkes Creek Road,0,21,All,215,ChipSeal_H,Holding,Renewals,6,2029,True,False,2730,273,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+43,Infantry Lane,0,95,All,254,ChipSeal_H,Holding,Renewals,6,2029,True,False,3320,332,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+20,Burkes Creek Road,0,21,All,397,ChipSeal_H,Holding,Renewals,6,2029,True,False,2730,273,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+917,Port Street East,21,396,All,139,RehabCS_RL,Rehab_cs,Renewals,6,2029,False,False,210600,2106,mesh_cracks =92.42; shove =0; poth =0,pdi =112.42; sdi =50; age =6,False
+40,Bravery Road,0,278,All,90,ThinAC_P,Preserve,Renewals,6,2029,False,False,158650,3173,mesh_cracks =1.97; shove =1.25; poth =0.27,pdi =6.43; sdi =10.22; age =19,False
+20,Burkes Creek Road,765,1789,All,123,ChipSeal_P,Preserve,Renewals,6,2029,False,False,133120,13312,mesh_cracks =0.88; shove =0.44; poth =0.44,pdi =6.1; sdi =64.74; age =17,False
+917,Port Street East,21,396,All,185,RehabCS_RL,Rehab_cs,Renewals,6,2029,False,False,210600,2106,mesh_cracks =98.73; shove =0; poth =0,pdi =98.73; sdi =0; age =6,False
+15,Fendall Close,0,438,All,414,ChipSeal_P,Preserve,Renewals,6,2029,False,False,54800,5480,mesh_cracks =1.03; shove =0.45; poth =0.44,pdi =6.4; sdi =7.55; age =16,False
+37,Freemason Avenue,149,172,All,209,RehabAC_UL,Rehab_ac,Renewals,6,2029,False,False,42560,266,mesh_cracks =0; shove =0; poth =1.68,pdi =30.06; sdi =49.95; age =11,False
+20,Burkes Creek Road,21,520,All,298,ChipSeal_P,Preserve,Renewals,6,2029,False,False,66140,6614,mesh_cracks =1.08; shove =1.35; poth =0.44,pdi =13.58; sdi =23.01; age =15,False
+21,Tapeka Heights Lane,0,277,All,204,Preseal_CS,Holding,Renewals,6,2029,False,False,43212,43212,mesh_cracks =14.56; shove =0.48; poth =1.18,pdi =27.68; sdi =14.8; age =22,False
+9339,Weston Way,2696,3114,All,433,ChipSeal_P,Preserve,Renewals,6,2029,False,False,52470,5247,mesh_cracks =1.34; shove =7.68; poth =0.45,pdi =22.49; sdi =27.83; age =21,False
+20,Burkes Creek Road,0,21,All,51,ChipSeal_P,Preserve,Renewals,6,2029,False,False,2730,273,mesh_cracks =0.93; shove =1.35; poth =0.44,pdi =7.14; sdi =7.27; age =15,False
+38,Tyler Place,279,322,All,206,ThinAC_P,Preserve,Renewals,6,2029,False,False,15500,310,mesh_cracks =1.43; shove =0.45; poth =0.44,pdi =14.96; sdi =26.99; age =37,False
+21,Tapeka Heights Lane,0,277,All,204,ChipSeal_H,Holding,Renewals,7,2030,True,False,36010,3601,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,965,1051,All,34,ChipSeal_P,Preserve,Renewals,7,2030,False,False,19090,1909,mesh_cracks =2.41; shove =1.09; poth =0.18,pdi =7.01; sdi =7.47; age =17,False
+9339,Weston Way,965,1051,All,164,ChipSeal_P,Preserve,Renewals,7,2030,False,False,19090,1909,mesh_cracks =2.41; shove =1.09; poth =0.18,pdi =7.01; sdi =7.47; age =17,False
+10,Upper Ahu Ahu Road,46,68,All,171,RehabAC_UL,Rehab_ac,Renewals,7,2030,False,False,28160,176,mesh_cracks =38.15; shove =23.08; poth =0.58,pdi =67.43; sdi =9.49; age =18,False
+9339,Weston Way,2385,2696,All,242,Preseal_CS,Holding,Renewals,7,2030,False,False,62704,62704.00000000001,mesh_cracks =21.43; shove =0.59; poth =0.56,pdi =28.5; sdi =8.91; age =22,False
+9339,Weston Way,2385,2696,All,241,ChipSeal_P,Preserve,Renewals,7,2030,False,False,39190,3919,mesh_cracks =1.54; shove =0.57; poth =0.55,pdi =13.32; sdi =20.91; age =22,False
+974,Railway Terrace East,0,730,All,420,ChipSeal_P,Preserve,Renewals,7,2030,False,False,53940,5394,mesh_cracks =1.05; shove =1.07; poth =0.17,pdi =16.01; sdi =34.21; age =16,False
+20,Burkes Creek Road,765,1789,All,126,ChipSeal_P,Preserve,Renewals,7,2030,False,False,133120,13312,mesh_cracks =13.79; shove =0.57; poth =0.55,pdi =20.51; sdi =34.56; age =18,False
+26,Stud Road,0,205,All,310,ChipSeal_P,Preserve,Renewals,7,2030,False,False,26860,2686,mesh_cracks =1.95; shove =1.16; poth =0.26,pdi =18.79; sdi =37.79; age =15,False
+20,Burkes Creek Road,765,1789,All,407,ChipSeal_P,Preserve,Renewals,7,2030,False,False,133120,13312,mesh_cracks =1.31; shove =0.55; poth =0.55,pdi =15.43; sdi =26.85; age =18,False
+37,Freemason Avenue,0,149,All,240,ChipSeal_P,Preserve,Renewals,7,2030,False,False,19370,1937,mesh_cracks =1.09; shove =0.54; poth =0.54,pdi =13.7; sdi =24.05; age =22,False
+19,Elm Close,0,82,All,415,Preseal_CS,Holding,Renewals,7,2030,False,False,9144,9144,mesh_cracks =1.64; shove =35.27; poth =0.18,pdi =39.15; sdi =87; age =12,False
+20,Burkes Creek Road,21,520,All,439,ChipSeal_P,Preserve,Renewals,7,2030,False,False,66140,6614,mesh_cracks =1.2; shove =1.46; poth =1.01,pdi =13.43; sdi =13.73; age =16,False
+9339,Weston Way,2385,2696,All,39,ChipSeal_P,Preserve,Renewals,7,2030,False,False,39190,3919,mesh_cracks =2.68; shove =0.57; poth =0.55,pdi =10.16; sdi =11.16; age =22,False
+43,Infantry Lane,0,95,All,104,ChipSeal_P,Preserve,Renewals,7,2030,False,False,3320,332,mesh_cracks =0.9; shove =0.52; poth =0.53,pdi =14.46; sdi =80.79; age =25,False
+24,George Noble Road,272,286,All,423,RehabAC_UL,Rehab_ac,Renewals,7,2030,False,False,16960,106,mesh_cracks =33.71; shove =0; poth =0,pdi =34.4; sdi =1.71; age =15,False
+20,Burkes Creek Road,549,697,All,129,ChipSeal_P,Preserve,Renewals,7,2030,False,False,19240,1924,mesh_cracks =1.11; shove =0.55; poth =0.54,pdi =7.69; sdi =8.03; age =18,False
+20,Burkes Creek Road,549,697,All,445,ChipSeal_P,Preserve,Renewals,7,2030,False,False,19240,1924,mesh_cracks =1.11; shove =0.55; poth =0.54,pdi =7.69; sdi =8.03; age =18,False
+9339,Weston Way,3114,3398,All,289,ChipSeal_P,Preserve,Renewals,7,2030,False,False,35780,3578,mesh_cracks =1.48; shove =0.55; poth =0.55,pdi =16.9; sdi =40.07; age =22,False
+20,Burkes Creek Road,21,520,All,52,ChipSeal_P,Preserve,Renewals,7,2030,False,False,66140,6614,mesh_cracks =1.2; shove =1.46; poth =0.54,pdi =8.79; sdi =9.09; age =16,False
+20,Burkes Creek Road,21,520,All,411,ChipSeal_P,Preserve,Renewals,7,2030,False,False,66140,6614,mesh_cracks =1.2; shove =1.46; poth =0.54,pdi =8.79; sdi =9.09; age =16,False
+20,Burkes Creek Road,21,520,All,487,ChipSeal_P,Preserve,Renewals,7,2030,False,False,66140,6614,mesh_cracks =1.2; shove =1.46; poth =0.54,pdi =8.79; sdi =9.09; age =16,False
+917,Port Street East,0,21,All,208,ChipSeal_P,Preserve,Renewals,7,2030,False,False,1090,109,mesh_cracks =20.49; shove =0.54; poth =0.53,pdi =26.57; sdi =41.73; age =25,False
+38,Tyler Place,279,322,All,86,ThinAC_P,Preserve,Renewals,7,2030,False,False,15500,310,mesh_cracks =1.42; shove =0.57; poth =1.34,pdi =16.21; sdi =17.55; age =38,False
+30,Curly McLeod Way,69,82,All,121,Preseal_AC,Holding,Renewals,7,2030,False,False,1664,1664,mesh_cracks =0.89; shove =0.53; poth =2.61,pdi =29.79; sdi =41.1; age =45,False
+36,Paneika Lane,370,391,All,359,ChipSeal_P,Preserve,Renewals,7,2030,False,False,2310,231,mesh_cracks =1.27; shove =0.56; poth =0.56,pdi =8.42; sdi =21.75; age =26,False
+917,Port Street East,0,21,All,180,ChipSeal_P,Preserve,Renewals,7,2030,False,False,1090,109,mesh_cracks =0.94; shove =0.52; poth =1.85,pdi =25.54; sdi =33.55; age =25,False
+30,Curly McLeod Way,69,82,All,121,ThinAC_H,Holding,Renewals,8,2031,True,False,5200,104,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,2385,2696,All,242,ChipSeal_H,Holding,Renewals,8,2031,True,False,39190,3919,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+19,Elm Close,0,82,All,415,ChipSeal_H,Holding,Renewals,8,2031,True,False,5080,508,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,736,814,All,321,RehabCS_UH,Rehab_cs,Renewals,8,2031,False,False,352600,1763,mesh_cracks =81.08; shove =0; poth =0,pdi =98.2; sdi =44.29; age =6,False
+44,Dickins Lane,474,1091,All,495,RehabCS_UL,Rehab_cs,Renewals,8,2031,False,False,527400,4395,mesh_cracks =100; shove =0; poth =0,pdi =100.37; sdi =0.94; age =9,False
+26,Stud Road,0,205,All,328,ChipSeal_P,Preserve,Renewals,8,2031,False,False,26860,2686,mesh_cracks =1.91; shove =1.26; poth =0.35,pdi =14.92; sdi =26.8; age =16,False
+30,Curly McLeod Way,69,82,All,416,Preseal_AC,Holding,Renewals,8,2031,False,False,4992,4992,mesh_cracks =36.72; shove =0.68; poth =0.68,pdi =51.36; sdi =61.55; age =46,False
+1,Conifer Close,0,378,All,307,ChipSeal_P,Preserve,Renewals,8,2031,False,False,37800,3780,mesh_cracks =3.24; shove =1.57; poth =0.66,pdi =27.23; sdi =48.35; age =17,False
+30,Curly McLeod Way,69,82,All,416,ThinAC_H,Holding,Renewals,9,2032,True,False,5200,104,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,1999,2369,All,146,ChipSeal_P,Preserve,Renewals,9,2032,False,False,48630,4863,mesh_cracks =1.27; shove =1; poth =1,pdi =12.52; sdi =13.39; age =6,False
+9339,Weston Way,814,886,All,107,RehabAC_UH,Rehab_ac,Renewals,9,2032,False,False,397200,1655,mesh_cracks =1.19; shove =62.64; poth =0,pdi =82.72; sdi =48.83; age =7,False
+27,Gallop Lane,0,116,All,408,Preseal_CS,Holding,Renewals,9,2032,False,False,22824,22824.000000000004,mesh_cracks =1.39; shove =32.65; poth =0.67,pdi =41.53; sdi =11.71; age =16,False
+15,Fendall Close,0,438,All,226,ChipSeal_P,Preserve,Renewals,9,2032,False,False,54800,5480,mesh_cracks =1.26; shove =1; poth =1,pdi =12.51; sdi =13.37; age =6,False
+32,Karearea Lane,0,56,All,172,Preseal_AC,Holding,Renewals,9,2032,False,False,39424,39424,mesh_cracks =40.52; shove =0.8; poth =0.81,pdi =60.81; sdi =38.17; age =36,False
+38,Tyler Place,279,322,All,211,Preseal_AC,Holding,Renewals,9,2032,False,False,7440,7440,mesh_cracks =2.44; shove =21.86; poth =0.84,pdi =34.5; sdi =14.61; age =40,False
+38,Tyler Place,334,389,All,191,Preseal_CS,Holding,Renewals,9,2032,False,False,27984,27984.000000000004,mesh_cracks =52.71; shove =0.93; poth =0.85,pdi =63.99; sdi =14.75; age =40,False
+30,Curly McLeod Way,69,82,All,489,Preseal_AC,Holding,Renewals,9,2032,False,False,4992,4992,mesh_cracks =1.89; shove =0.76; poth =4.39,pdi =58.94; sdi =76.39; age =47,False
+36,Paneika Lane,0,370,All,179,Preseal_AC,Holding,Renewals,9,2032,False,False,130240,130240,mesh_cracks =1; shove =45.53; poth =0,pdi =47.27; sdi =1.84; age =13,False
+16,Sarah Lane,0,515,All,174,ChipSeal_P,Preserve,Renewals,9,2032,False,False,46020,4602,mesh_cracks =2.22; shove =0.8; poth =2.04,pdi =33.6; sdi =58.47; age =24,False
+41,Huamanu Street,116,134,All,316,Preseal_AC,Holding,Renewals,9,2032,False,False,3576,3575.9999999999995,mesh_cracks =0; shove =36.79; poth =0,pdi =37.29; sdi =86.06; age =17,False
+42,Te Manaki Street,0,377,All,148,ChipSeal_P,Preserve,Renewals,9,2032,False,False,30160,3016,mesh_cracks =3.65; shove =0.79; poth =0.79,pdi =27.34; sdi =57.02; age =26,False
+9339,Weston Way,3398,3457,All,350,Preseal_CS,Holding,Renewals,9,2032,False,False,47552,47552,mesh_cracks =40.05; shove =0.8; poth =0.81,pdi =60.91; sdi =40.51; age =27,False
+36,Paneika Lane,370,391,All,320,Preseal_CS,Holding,Renewals,9,2032,False,False,4158,4158,mesh_cracks =1.97; shove =0.8; poth =3.1,pdi =35.09; sdi =35.96; age =28,False
+10,Upper Ahu Ahu Road,46,68,All,136,ThinAC_P,Preserve,Renewals,9,2032,False,False,8800,176,mesh_cracks =2.46; shove =1.54; poth =0.65,pdi =27; sdi =50.89; age =20,False
+11,Lower Ahu Ahu Road,0,158,All,302,ChipSeal_P,Preserve,Renewals,9,2032,False,False,12640,1264,mesh_cracks =2.1; shove =1.54; poth =0.64,pdi =25.93; sdi =49.22; age =16,False
+5,Vintry Drive,0,362,All,5,ChipSeal_P,Preserve,Renewals,9,2032,False,False,34750,3475,mesh_cracks =1.6; shove =2.21; poth =0.8,pdi =13.06; sdi =22.33; age =23,False
+917,Port Street East,2120,2350,All,198,ChipSeal_P,Preserve,Renewals,9,2032,False,False,13340,1334,mesh_cracks =1.77; shove =1.63; poth =0.74,pdi =25.46; sdi =47.28; age =24,False
+9339,Weston Way,2385,2696,All,167,ChipSeal_P,Preserve,Renewals,9,2032,False,False,39190,3919,mesh_cracks =2.46; shove =0.82; poth =0.79,pdi =13.08; sdi =14.25; age =24,False
+38,Tyler Place,0,279,All,85,ChipSeal_P,Preserve,Renewals,9,2032,False,False,20090,2009,mesh_cracks =2.44; shove =0.82; poth =1.12,pdi =16.26; sdi =17.42; age =25,False
+32,Karearea Lane,0,56,All,172,ThinAC_H,Holding,Renewals,10,2033,True,False,30800,616,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+36,Paneika Lane,0,370,All,179,ThinAC_H,Holding,Renewals,10,2033,True,False,203500,4070,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+38,Tyler Place,334,389,All,191,ChipSeal_H,Holding,Renewals,10,2033,True,False,5830,583,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+38,Tyler Place,279,322,All,211,ThinAC_H,Holding,Renewals,10,2033,True,False,15500,310,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+41,Huamanu Street,116,134,All,316,ThinAC_H,Holding,Renewals,10,2033,True,False,7450,149,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+36,Paneika Lane,370,391,All,320,ChipSeal_H,Holding,Renewals,10,2033,True,False,2310,231,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,736,814,All,321,SecondCoat,Preserve,Renewals,10,2033,True,False,17630,1763,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.5; age =1,False
+9339,Weston Way,3398,3457,All,350,ChipSeal_H,Holding,Renewals,10,2033,True,False,7430,743,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+27,Gallop Lane,0,116,All,408,ChipSeal_H,Holding,Renewals,10,2033,True,False,9510,951,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+30,Curly McLeod Way,69,82,All,489,ThinAC_H,Holding,Renewals,10,2033,True,False,5200,104,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,886,939,All,373,RehabAC_UH,Rehab_ac,Renewals,10,2033,False,False,292560,1219,mesh_cracks =94.46; shove =0; poth =0,pdi =95.45; sdi =2.47; age =7,False
+9339,Weston Way,1051,1219,All,115,Preseal_CS,Holding,Renewals,10,2033,False,False,74600,74600,mesh_cracks =1.58; shove =0; poth =1,pdi =29.66; sdi =57.6; age =8,False
+9339,Weston Way,1051,1219,All,197,Preseal_CS,Holding,Renewals,10,2033,False,False,111900,111900,mesh_cracks =1.58; shove =0; poth =1,pdi =30.69; sdi =60.17; age =8,False
+32,Karearea Lane,0,56,All,447,RehabAC_UL,Rehab_ac,Renewals,10,2033,False,False,98560,616,mesh_cracks =45.87; shove =0.96; poth =0.96,pdi =57.19; sdi =56.01; age =37,False
+23,Apple Orchard Lane,0,185,All,165,Preseal_CS,Holding,Renewals,10,2033,False,False,33300,33300,mesh_cracks =21.63; shove =0.92; poth =0.92,pdi =37.5; sdi =25.33; age =46,False
+36,Paneika Lane,391,520,All,377,ThinAC_P,Preserve,Renewals,10,2033,False,False,70950,1419,mesh_cracks =2.83; shove =0; poth =0,pdi =22.83; sdi =151; age =12,False
+43,Infantry Lane,0,95,All,284,ChipSeal_P,Preserve,Renewals,10,2033,False,False,3320,332,mesh_cracks =6.19; shove =6.76; poth =0.92,pdi =22.84; sdi =46.9; age =28,False
+38,Tyler Place,334,389,All,88,ChipSeal_P,Preserve,Renewals,10,2033,False,False,5830,583,mesh_cracks =3.13; shove =0.96; poth =0.93,pdi =15.95; sdi =17.68; age =41,False
+10,Upper Ahu Ahu Road,0,46,All,213,ChipSeal_P,Preserve,Renewals,10,2033,False,False,3680,368,mesh_cracks =1.64; shove =0.89; poth =0.91,pdi =14.98; sdi =28.43; age =26,False
+9339,Weston Way,1051,1219,All,115,ChipSeal_H,Holding,Renewals,11,2034,True,False,37300,3730,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+6,Croatia Avenue,0,42,All,119,SecondCoat,Preserve,Renewals,11,2034,True,False,3360,336,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+23,Apple Orchard Lane,0,185,All,165,ChipSeal_H,Holding,Renewals,11,2034,True,False,18500,1850,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+9339,Weston Way,1051,1219,All,197,ChipSeal_H,Holding,Renewals,11,2034,True,False,37300,3730,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+18,Monaghan Way,0,80,All,370,SecondCoat,Preserve,Renewals,11,2034,True,False,6480,648,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+15,Fendall Close,736,814,All,381,Preseal_CS,Holding,Renewals,11,2034,False,False,52890,52890,mesh_cracks =1.35; shove =0; poth =1,pdi =31.21; sdi =61.86; age =8,False
+35,Leicester Place,0,660,All,243,RehabCS_UL,Rehab_cs,Renewals,11,2034,False,False,770160,6418,mesh_cracks =100; shove =0; poth =0,pdi =120; sdi =50; age =12,False
+15,Fendall Close,585,643,All,452,ChipSeal_P,Preserve,Renewals,11,2034,False,False,7310,731,mesh_cracks =1; shove =0; poth =1,pdi =11.2; sdi =11.81; age =6,False
+917,Port Street East,21,396,All,325,ChipSeal_P,Preserve,Renewals,11,2034,False,False,21060,2106,mesh_cracks =1.35; shove =5.42; poth =0,pdi =7.1; sdi =101.81; age =11,False
+32,Karearea Lane,84,154,All,166,Preseal_CS,Holding,Renewals,11,2034,False,False,14256,14256,mesh_cracks =1.78; shove =24.28; poth =1.09,pdi =38; sdi =15.58; age =38,False
+9,Kowhai Glen,0,305,All,435,ChipSeal_P,Preserve,Renewals,11,2034,False,False,27740,2774,mesh_cracks =3.17; shove =1.04; poth =1.05,pdi =28.51; sdi =55.27; age =44,False
+43,Infantry Lane,0,95,All,465,ChipSeal_P,Preserve,Renewals,11,2034,False,False,3320,332,mesh_cracks =1.94; shove =1.01; poth =1.04,pdi =23.36; sdi =37.54; age =29,False
+917,Port Street East,21,396,All,139,SecondCoat,Preserve,Renewals,12,2035,True,False,21060,2106,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.59; age =5,False
+32,Karearea Lane,84,154,All,166,ChipSeal_H,Holding,Renewals,12,2035,True,False,7920,792,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+917,Port Street East,21,396,All,185,SecondCoat,Preserve,Renewals,12,2035,True,False,21060,2106,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.59; age =5,False
+15,Fendall Close,736,814,All,381,ChipSeal_H,Holding,Renewals,12,2035,True,False,17630,1763,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,736,814,All,31,ChipSeal_P,Preserve,Renewals,12,2035,False,False,17630,1763,mesh_cracks =1.78; shove =1.09; poth =1.2,pdi =15.24; sdi =17.45; age =10,False
+9339,Weston Way,1589,1999,All,332,ChipSeal_P,Preserve,Renewals,12,2035,False,False,54530,5453,mesh_cracks =2.27; shove =1.2; poth =1.21,pdi =16.12; sdi =18.95; age =10,False
+9339,Weston Way,1237,1589,All,36,ChipSeal_P,Preserve,Renewals,12,2035,False,False,45420,4542,mesh_cracks =2.26; shove =1.2; poth =1.21,pdi =15.96; sdi =18.54; age =10,False
+9339,Weston Way,1237,1589,All,125,ChipSeal_P,Preserve,Renewals,12,2035,False,False,45420,4542,mesh_cracks =2.26; shove =1.2; poth =1.21,pdi =15.96; sdi =18.54; age =10,False
+9339,Weston Way,1237,1589,All,231,ChipSeal_P,Preserve,Renewals,12,2035,False,False,45420,4542,mesh_cracks =2.26; shove =1.2; poth =1.21,pdi =15.96; sdi =18.54; age =10,False
+9339,Weston Way,814,886,All,477,RehabAC_UH,Rehab_ac,Renewals,12,2035,False,False,397200,1655,mesh_cracks =1.39; shove =99.32; poth =0,pdi =100.94; sdi =2.62; age =8,False
+9339,Weston Way,1999,2369,All,249,ChipSeal_P,Preserve,Renewals,12,2035,False,False,48630,4863,mesh_cracks =1.47; shove =1.09; poth =1.19,pdi =14.79; sdi =16.44; age =10,False
+9339,Weston Way,1999,2369,All,481,ChipSeal_P,Preserve,Renewals,12,2035,False,False,48630,4863,mesh_cracks =1.47; shove =1.09; poth =1.19,pdi =14.79; sdi =16.44; age =10,False
+15,Fendall Close,0,438,All,363,ChipSeal_P,Preserve,Renewals,12,2035,False,False,54800,5480,mesh_cracks =1.45; shove =1.09; poth =1.19,pdi =34.48; sdi =65.65; age =10,False
+38,Tyler Place,334,389,All,224,RehabCS_UL,Rehab_cs,Renewals,12,2035,False,False,69960,583,mesh_cracks =50.49; shove =1.35; poth =5.48,pdi =111.45; sdi =69.45; age =43,False
+917,Port Street East,2120,2350,All,457,Preseal_CS,Holding,Renewals,12,2035,False,False,26680,26680,mesh_cracks =49.96; shove =0; poth =0,pdi =49.96; sdi =0; age =10,False
+15,Fendall Close,585,643,All,29,ChipSeal_P,Preserve,Renewals,12,2035,False,False,7310,731,mesh_cracks =1.43; shove =1.07; poth =0.17,pdi =4.95; sdi =5.69; age =18,False
+33,Okoare Lane,0,58,All,233,RehabCS_UL,Rehab_cs,Renewals,12,2035,False,False,44520,371,mesh_cracks =4.23; shove =1.24; poth =0.34,pdi =28.92; sdi =55.98; age =17,False
+8,Tarras Road,86,120,All,497,ThinAC_P,Preserve,Renewals,12,2035,False,False,17000,340,mesh_cracks =5.13; shove =1.33; poth =0.43,pdi =28.74; sdi =51.92; age =23,False
+30,Curly McLeod Way,0,69,All,343,ChipSeal_P,Preserve,Renewals,12,2035,False,False,5520,552,mesh_cracks =2.15; shove =1.16; poth =1.18,pdi =16.5; sdi =40.08; age =28,False
+36,Paneika Lane,370,391,All,80,ChipSeal_P,Preserve,Renewals,12,2035,False,False,2310,231,mesh_cracks =3.87; shove =1.23; poth =1.21,pdi =20.64; sdi =23.24; age =31,False
+38,Tyler Place,322,334,All,87,ChipSeal_P,Preserve,Renewals,12,2035,False,False,1200,120,mesh_cracks =2.01; shove =1.53; poth =0.75,pdi =13.15; sdi =16; age =18,False
+917,Port Street East,2120,2350,All,457,ChipSeal_H,Holding,Renewals,13,2036,True,False,13340,1334,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+15,Fendall Close,736,814,All,163,ChipSeal_P,Preserve,Renewals,13,2036,False,False,17630,1763,mesh_cracks =1.8; shove =1.09; poth =1.2,pdi =15.27; sdi =17.52; age =10,False
+9339,Weston Way,1589,1999,All,37,ChipSeal_P,Preserve,Renewals,13,2036,False,False,54530,5453,mesh_cracks =2.32; shove =1.2; poth =1.21,pdi =16.06; sdi =18.72; age =10,False
+9339,Weston Way,1589,1999,All,128,ChipSeal_P,Preserve,Renewals,13,2036,False,False,54530,5453,mesh_cracks =2.32; shove =1.2; poth =1.21,pdi =16.06; sdi =18.72; age =10,False
+9339,Weston Way,1589,1999,All,313,ChipSeal_P,Preserve,Renewals,13,2036,False,False,54530,5453,mesh_cracks =2.32; shove =1.2; poth =1.21,pdi =16.06; sdi =18.72; age =10,False
+9339,Weston Way,1999,2369,All,244,ChipSeal_P,Preserve,Renewals,13,2036,False,False,48630,4863,mesh_cracks =1.48; shove =1.09; poth =1.2,pdi =19.36; sdi =27.87; age =10,False
+9339,Weston Way,1589,1999,All,199,ChipSeal_P,Preserve,Renewals,13,2036,False,False,54530,5453,mesh_cracks =7.31; shove =1.2; poth =1.21,pdi =21.05; sdi =18.72; age =10,False
+9339,Weston Way,1051,1219,All,260,ChipSeal_P,Preserve,Renewals,13,2036,False,False,37300,3730,mesh_cracks =2.15; shove =1.1; poth =1.21,pdi =16.03; sdi =19.01; age =10,False
+9339,Weston Way,2385,2696,All,365,RehabCS_UM,Rehab_cs,Renewals,13,2036,False,False,627040,3919,mesh_cracks =76.57; shove =1.68; poth =1.5,pdi =110.72; sdi =61.63; age =28,False
+7056,Dawick Street,78,88,All,170,Preseal_AC,Holding,Renewals,13,2036,False,False,5248,5248.000000000001,mesh_cracks =43.4; shove =1.07; poth =0.17,pdi =65.46; sdi =51.98; age =20,False
+1092,Bronte Road East,156,183,All,130,ThinAC_P,Preserve,Renewals,13,2036,False,False,10800,216,mesh_cracks =3.17; shove =1.3; poth =1.34,pdi =31.9; sdi =51.2; age =34,False
+6,Croatia Avenue,42,76,All,203,ThinAC_P,Preserve,Renewals,13,2036,False,False,13600,272,mesh_cracks =4.7; shove =1.33; poth =1.35,pdi =34.33; sdi =53.21; age =51,False
+38,Tyler Place,334,389,All,290,ChipSeal_P,Preserve,Renewals,13,2036,False,False,5830,583,mesh_cracks =6.24; shove =1.45; poth =1.4,pdi =28.01; sdi =32.85; age =44,False
+36,Paneika Lane,370,391,All,145,ChipSeal_P,Preserve,Renewals,13,2036,False,False,2310,231,mesh_cracks =4.74; shove =1.41; poth =1.39,pdi =24.54; sdi =28.12; age =32,False
+7056,Dawick Street,78,88,All,170,ThinAC_H,Holding,Renewals,14,2037,True,False,4100,82,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+44,Dickins Lane,474,1091,All,495,SecondCoat,Preserve,Renewals,14,2037,True,False,43950,4395,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+9339,Weston Way,965,1051,All,252,RehabCS_UH,Rehab_cs,Renewals,14,2037,False,False,381800,1909,mesh_cracks =17.91; shove =1.93; poth =0.92,pdi =41.55; sdi =110.58; age =24,False
+15,Fendall Close,438,585,All,442,ChipSeal_P,Preserve,Renewals,14,2037,False,False,18520,1852,mesh_cracks =1.08; shove =1; poth =1.09,pdi =32.97; sdi =63.57; age =10,False
+9339,Weston Way,814,886,All,32,RehabAC_UH,Rehab_ac,Renewals,14,2037,False,False,397200,1655,mesh_cracks =99.6; shove =1; poth =1,pdi =110.93; sdi =14.27; age =10,False
+9339,Weston Way,886,939,All,419,ThinAC_P,Preserve,Renewals,14,2037,False,False,60950,1219,mesh_cracks =3.77; shove =1.08; poth =1.08,pdi =19.37; sdi =22.36; age =9,False
+9339,Weston Way,1051,1219,All,35,ChipSeal_P,Preserve,Renewals,14,2037,False,False,37300,3730,mesh_cracks =2.19; shove =1.19; poth =1.21,pdi =15.85; sdi =18.33; age =10,False
+9339,Weston Way,1051,1219,All,285,ChipSeal_P,Preserve,Renewals,14,2037,False,False,37300,3730,mesh_cracks =2.19; shove =1.19; poth =1.21,pdi =15.85; sdi =18.33; age =10,False
+15,Fendall Close,438,585,All,305,ChipSeal_P,Preserve,Renewals,14,2037,False,False,18520,1852,mesh_cracks =1.08; shove =1; poth =1.09,pdi =13.19; sdi =14.12; age =10,False
+26,Stud Road,0,205,All,315,RehabCS_UM,Rehab_cs,Renewals,15,2038,False,False,429760,2686,mesh_cracks =34.62; shove =2.14; poth =1.2,pdi =68.73; sdi =66.55; age =23,False
+15,Fendall Close,643,736,All,30,ChipSeal_P,Preserve,Renewals,15,2038,False,False,19020,1902,mesh_cracks =1.82; shove =1.1; poth =1.2,pdi =15.31; sdi =17.62; age =10,False
+15,Fendall Close,643,736,All,352,ChipSeal_P,Preserve,Renewals,15,2038,False,False,19020,1902,mesh_cracks =1.82; shove =1.1; poth =1.2,pdi =15.31; sdi =17.62; age =10,False
+26,Stud Road,0,205,All,368,RehabCS_UM,Rehab_cs,Renewals,15,2038,False,False,429760,2686,mesh_cracks =29.07; shove =2.14; poth =1.2,pdi =63.18; sdi =66.55; age =23,False
+9339,Weston Way,1051,1219,All,498,ChipSeal_P,Preserve,Renewals,15,2038,False,False,37300,3730,mesh_cracks =2.6; shove =1.31; poth =1.33,pdi =17.68; sdi =21.03; age =11,False
+15,Fendall Close,0,438,All,253,ChipSeal_P,Preserve,Renewals,15,2038,False,False,54800,5480,mesh_cracks =1.48; shove =1.09; poth =1.2,pdi =34.52; sdi =65.77; age =10,False
+29,Riroriro Road,122,139,All,150,ThinAC_P,Preserve,Renewals,15,2038,False,False,5250,105,mesh_cracks =3.14; shove =1.65; poth =0.75,pdi =26.96; sdi =47.45; age =26,False
+36,Paneika Lane,370,391,All,383,ChipSeal_P,Preserve,Renewals,15,2038,False,False,2310,231,mesh_cracks =7.21; shove =1.87; poth =1.83,pdi =34.59; sdi =40.22; age =34,False
+20,Burkes Creek Road,0,21,All,215,ChipSeal_P,Preserve,Renewals,15,2038,False,False,2730,273,mesh_cracks =1.46; shove =1.18; poth =1.21,pdi =15.07; sdi =16.5; age =8,False
+9339,Weston Way,965,1051,All,252,SecondCoat,Preserve,Renewals,16,2039,True,False,19090,1909,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.5; age =1,False
+9339,Weston Way,2385,2696,All,365,SecondCoat,Preserve,Renewals,16,2039,True,False,39190,3919,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.5; age =2,False
+36,Paneika Lane,0,370,All,309,RehabAC_UL,Rehab_ac,Renewals,16,2039,False,False,651200,4070,mesh_cracks =95.33; shove =1.08; poth =0.18,pdi =103.52; sdi =17.2; age =20,False
+9339,Weston Way,1999,2369,All,38,ChipSeal_P,Preserve,Renewals,16,2039,False,False,48630,4863,mesh_cracks =1.92; shove =1.29; poth =1.44,pdi =17.98; sdi =21.03; age =12,False
+9339,Weston Way,1999,2369,All,459,ChipSeal_P,Preserve,Renewals,16,2039,False,False,48630,4863,mesh_cracks =1.92; shove =1.29; poth =1.44,pdi =17.98; sdi =21.03; age =12,False
+20,Burkes Creek Road,0,21,All,217,ChipSeal_P,Preserve,Renewals,16,2039,False,False,2730,273,mesh_cracks =1.44; shove =1.42; poth =1.1,pdi =33.88; sdi =64.67; age =10,False
+9339,Weston Way,1999,2369,All,146,ChipSeal_P,Preserve,Renewals,16,2039,False,False,48630,4863,mesh_cracks =1.31; shove =1; poth =1,pdi =12.57; sdi =13.49; age =6,False
+39,Ashlar Court,0,251,All,322,Preseal_CS,Holding,Renewals,16,2039,False,False,101184,101184,mesh_cracks =6.57; shove =33.92; poth =2.25,pdi =69.49; sdi =43.05; age =38,False
+15,Fendall Close,438,585,All,429,ChipSeal_P,Preserve,Renewals,16,2039,False,False,18520,1852,mesh_cracks =1.28; shove =1.16; poth =1.3,pdi =15.65; sdi =16.94; age =12,False
+15,Fendall Close,438,585,All,28,ChipSeal_P,Preserve,Renewals,16,2039,False,False,18520,1852,mesh_cracks =1.18; shove =1.08; poth =1.19,pdi =14.37; sdi =15.49; age =11,False
+20,Burkes Creek Road,0,21,All,397,ChipSeal_P,Preserve,Renewals,16,2039,False,False,2730,273,mesh_cracks =1.65; shove =1.29; poth =1.34,pdi =16.65; sdi =18.52; age =9,False
+35,Leicester Place,0,660,All,243,SecondCoat,Preserve,Renewals,17,2040,True,False,64180,6418,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+39,Ashlar Court,0,251,All,322,ChipSeal_H,Holding,Renewals,17,2040,True,False,21080,2108,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+41,Huamanu Street,0,116,All,308,RehabAC_UL,Rehab_ac,Renewals,17,2040,False,False,154080,963,mesh_cracks =5.46; shove =2.28; poth =9.51,pdi =107.75; sdi =112.04; age =52,False
+44,Dickins Lane,0,474,All,412,RehabCS_UL,Rehab_cs,Renewals,17,2040,False,False,352680,2939,mesh_cracks =100; shove =1.94; poth =1.03,pdi =132.28; sdi =162.44; age =18,False
+9339,Weston Way,886,939,All,33,ThinAC_P,Preserve,Renewals,17,2040,False,False,60950,1219,mesh_cracks =5.65; shove =1.08; poth =1,pdi =24.7; sdi =31.13; age =12,False
+9339,Weston Way,886,939,All,188,ThinAC_P,Preserve,Renewals,17,2040,False,False,60950,1219,mesh_cracks =5.65; shove =1.08; poth =1,pdi =24.7; sdi =31.13; age =12,False
+9339,Weston Way,886,939,All,424,ThinAC_P,Preserve,Renewals,17,2040,False,False,60950,1219,mesh_cracks =5.65; shove =1.08; poth =1,pdi =24.7; sdi =31.13; age =12,False
+9339,Weston Way,886,939,All,456,ThinAC_P,Preserve,Renewals,17,2040,False,False,60950,1219,mesh_cracks =5.65; shove =1.08; poth =1,pdi =24.7; sdi =31.13; age =12,False
+29,Riroriro Road,0,122,All,186,RehabCS_UL,Rehab_cs,Renewals,17,2040,False,False,90720,756,mesh_cracks =20.32; shove =2.81; poth =3.73,pdi =66.33; sdi =57.86; age =24,False
+20,Burkes Creek Road,21,520,All,298,ChipSeal_P,Preserve,Renewals,17,2040,False,False,66140,6614,mesh_cracks =1.45; shove =1.08; poth =1.19,pdi =34.48; sdi =65.64; age =10,False
+30,Curly McLeod Way,69,82,All,72,Preseal_AC,Holding,Renewals,17,2040,False,False,6656,6656,mesh_cracks =35.11; shove =2.32; poth =2.37,pdi =63.51; sdi =34.35; age =55,False
+30,Curly McLeod Way,69,82,All,72,ThinAC_H,Holding,Renewals,18,2041,True,False,5200,104,mesh_cracks =0; shove =0; poth =0,pdi =0; sdi =0; age =0,False
+38,Tyler Place,334,389,All,224,SecondCoat,Preserve,Renewals,18,2041,True,False,5830,583,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+33,Okoare Lane,0,58,All,233,SecondCoat,Preserve,Renewals,18,2041,True,False,3710,371,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.62; age =5,False
+26,Stud Road,0,205,All,315,SecondCoat,Preserve,Renewals,18,2041,True,False,26860,2686,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.5; age =2,False
+26,Stud Road,0,205,All,368,SecondCoat,Preserve,Renewals,18,2041,True,False,26860,2686,mesh_cracks =1; shove =1; poth =1,pdi =12.2; sdi =12.5; age =2,False
+41,Huamanu Street,0,116,All,142,RehabAC_UL,Rehab_ac,Renewals,18,2041,False,False,154080,963,mesh_cracks =6.46; shove =2.59; poth =9.54,pdi =110.36; sdi =115.55; age =53,False
+28,Stirrup Lane,0,261,All,475,RehabCS_UL,Rehab_cs,Renewals,18,2041,False,False,306960,2558,mesh_cracks =16.32; shove =56.87; poth =2.44,pdi =109.86; sdi =62.05; age =25,False
+9339,Weston Way,965,1051,All,34,ChipSeal_P,Preserve,Renewals,18,2041,False,False,19090,1909,mesh_cracks =4.56; shove =1; poth =1,pdi =28.22; sdi =42.85; age =10,False
+9339,Weston Way,965,1051,All,164,ChipSeal_P,Preserve,Renewals,18,2041,False,False,19090,1909,mesh_cracks =4.56; shove =1; poth =1,pdi =28.22; sdi =42.85; age =10,False
+9167,Foxglove Drive,0,668,All,327,ChipSeal_P,Preserve,Renewals,18,2041,False,False,40080,4008,mesh_cracks =2.63; shove =2.12; poth =1.23,pdi =17.75; sdi =107.18; age =30,False
+20,Burkes Creek Road,697,765,All,440,RehabAC_UH,Rehab_ac,Renewals,18,2041,False,False,212160,884,mesh_cracks =2; shove =99.12; poth =1,pdi =131.12; sdi =61.09; age =12,False
+917,Port Street East,0,21,All,208,RehabCS_RL,Rehab_cs,Renewals,18,2041,False,False,10900,109,mesh_cracks =100; shove =0; poth =0,pdi =100; sdi =0; age =10,False
+15,Fendall Close,438,585,All,222,ChipSeal_P,Preserve,Renewals,18,2041,False,False,18520,1852,mesh_cracks =1.4; shove =1.25; poth =1.42,pdi =17.1; sdi =18.67; age =13,False
+15,Fendall Close,438,585,All,276,ChipSeal_P,Preserve,Renewals,18,2041,False,False,18520,1852,mesh_cracks =1.4; shove =1.25; poth =1.42,pdi =17.1; sdi =18.67; age =13,False
+15,Fendall Close,438,585,All,399,ChipSeal_P,Preserve,Renewals,18,2041,False,False,18520,1852,mesh_cracks =1.4; shove =1.25; poth =1.42,pdi =17.1; sdi =18.67; age =13,False
+43,Infantry Lane,0,95,All,425,RehabCS_UL,Rehab_cs,Renewals,18,2041,False,False,39840,332,mesh_cracks =48.77; shove =2.69; poth =2.74,pdi =83.22; sdi =43.54; age =36,False
+20,Burkes Creek Road,697,765,All,210,ThinAC_P,Preserve,Renewals,18,2041,False,False,44200,884,mesh_cracks =2; shove =1; poth =1,pdi =33; sdi =61.09; age =12,False
+9339,Weston Way,3398,3457,All,451,ChipSeal_P,Preserve,Renewals,18,2041,False,False,7430,743,mesh_cracks =1.37; shove =0; poth =0,pdi =21.37; sdi =51; age =13,False
+20,Burkes Creek Road,549,697,All,262,ChipSeal_P,Preserve,Renewals,18,2041,False,False,19240,1924,mesh_cracks =2.49; shove =1.78; poth =1.93,pdi =24.11; sdi =28.76; age =13,False
+20,Burkes Creek Road,0,21,All,236,ChipSeal_P,Preserve,Renewals,18,2041,False,False,2730,273,mesh_cracks =1.82; shove =1.28; poth =1.34,pdi =16.86; sdi =19.58; age =12,False
+37,Freemason Avenue,172,362,All,378,RehabCS_UL,Rehab_cs,Renewals,19,2042,False,False,228000,1900,mesh_cracks =31.83; shove =20.85; poth =3.28,pdi =100.9; sdi =78.93; age =34,False
+17,Ash Drive,0,318,All,286,RehabCS_UM,Rehab_cs,Renewals,19,2042,False,False,376480,2353,mesh_cracks =32.21; shove =2.62; poth =1.56,pdi =65.9; sdi =59.9; age =23,False
+23,Apple Orchard Lane,0,185,All,187,RehabCS_UL,Rehab_cs,Renewals,19,2042,False,False,222000,1850,mesh_cracks =100; shove =0; poth =0,pdi =120; sdi =51; age =16,False
+30,Curly McLeod Way,0,69,All,178,RehabCS_UL,Rehab_cs,Renewals,19,2042,False,False,66240,552,mesh_cracks =6.78; shove =2.9; poth =6.1,pdi =76.65; sdi =82.04; age =35,False
+1038,Gossey Drive North,1319,1723,All,13,ChipSeal_P,Preserve,Renewals,19,2042,False,False,36360,3636,mesh_cracks =2.19; shove =1.51; poth =1.62,pdi =20.31; sdi =24.46; age =14,False
+1038,Gossey Drive North,1319,1723,All,306,ChipSeal_P,Preserve,Renewals,19,2042,False,False,36360,3636,mesh_cracks =2.19; shove =1.51; poth =1.62,pdi =20.31; sdi =24.46; age =14,False
+37,Freemason Avenue,0,149,All,488,ChipSeal_P,Preserve,Renewals,19,2042,False,False,19370,1937,mesh_cracks =1.49; shove =1.08; poth =1.2,pdi =34.62; sdi =67.17; age =17,False
+917,Port Street East,2120,2350,All,113,ChipSeal_P,Preserve,Renewals,19,2042,False,False,13340,1334,mesh_cracks =1.18; shove =1; poth =1.08,pdi =33.02; sdi =63.64; age =17,False
+35,Leicester Place,0,660,All,160,RehabCS_UL,Rehab_cs,Renewals,20,2043,False,False,770160,6418,mesh_cracks =59.29; shove =1.6; poth =0.58,pdi =86.66; sdi =59.08; age =21,False
+9339,Weston Way,1051,1219,All,115,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37300,3730,mesh_cracks =2.45; shove =1.32; poth =1.33,pdi =17.51; sdi =19.42; age =8,False
+9339,Weston Way,1051,1219,All,197,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37300,3730,mesh_cracks =2.45; shove =1.32; poth =1.33,pdi =17.51; sdi =19.42; age =8,False
+1037,Epiha Road Upper,0,415,All,183,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37350,3735,mesh_cracks =3.09; shove =1.91; poth =2.11,pdi =26.77; sdi =35.09; age =17,False
+1037,Epiha Road Upper,0,415,All,102,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37350,3735,mesh_cracks =2.76; shove =1.77; poth =1.94,pdi =24.49; sdi =31.22; age =16,False
+1037,Epiha Road Upper,0,415,All,12,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37350,3735,mesh_cracks =2.47; shove =1.63; poth =1.77,pdi =22.34; sdi =27.72; age =15,False
+1037,Epiha Road Upper,0,415,All,141,ChipSeal_P,Preserve,Renewals,20,2043,False,False,37350,3735,mesh_cracks =2.47; shove =1.63; poth =1.77,pdi =22.34; sdi =27.72; age =15,False
+4,Highfield Drive,0,71,All,323,ChipSeal_P,Preserve,Renewals,20,2043,False,False,4970,497,mesh_cracks =1.33; shove =1; poth =1.2,pdi =34.3; sdi =66.42; age =17,False

@@ -1,0 +1,501 @@
+elem_index,file_section_id,file_section_name,file_loc_from,file_loc_to,file_lane_name,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2053
+0,1013,Brook Street North,0,220,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+1,1,Conifer Close,0,378,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+2,2,Fladgate Drive,0,565,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+3,4,Highfield Drive,0,71,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+4,3,Matai Way,0,557,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+5,5,Vintry Drive,0,362,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+6,6,Croatia Avenue,0,42,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+7,6,Croatia Avenue,42,76,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+8,7,Lumbarda Drive,0,152,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+9,8,Tarras Road,0,86,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+10,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+11,9,Kowhai Glen,0,305,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+12,1037,Epiha Road Upper,0,415,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+13,1038,Gossey Drive North,1319,1723,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+14,10,Upper Ahu Ahu Road,0,46,All,STM Short Seg Low Distress,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+15,10,Upper Ahu Ahu Road,46,68,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+16,11,Lower Ahu Ahu Road,0,158,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+17,11,Lower Ahu Ahu Road,158,179,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+18,12,Kriletich Drive,0,263,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+19,917,Port Street East,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+20,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+21,917,Port Street East,396,874,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+22,917,Port Street East,874,1340,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+23,917,Port Street East,1340,1431,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+24,917,Port Street East,1431,2115,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+25,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+26,13,Puriri Dale Way,0,293,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+27,15,Fendall Close,0,438,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+28,15,Fendall Close,438,585,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+29,15,Fendall Close,585,643,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+30,15,Fendall Close,643,736,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+31,15,Fendall Close,736,814,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+32,9339,Weston Way,814,886,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+33,9339,Weston Way,886,939,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+34,9339,Weston Way,965,1051,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+35,9339,Weston Way,1051,1219,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+36,9339,Weston Way,1237,1589,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+37,9339,Weston Way,1589,1999,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+38,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+39,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+40,9339,Weston Way,2696,3114,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+41,9339,Weston Way,3114,3398,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+42,9339,Weston Way,3398,3457,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+43,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+44,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+45,16,Sarah Lane,0,515,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+46,17,Ash Drive,0,318,All,Surf too NEW,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+47,18,Monaghan Way,0,80,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+48,1035,Cousins Avenue East,0,61,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+49,19,Elm Close,0,82,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+50,19,Elm Close,82,101,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+51,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+52,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+53,20,Burkes Creek Road,549,697,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+54,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+55,20,Burkes Creek Road,765,1789,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+56,21,Tapeka Heights Lane,0,277,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+57,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+58,23,Apple Orchard Lane,0,185,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+59,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+60,24,George Noble Road,0,272,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+61,24,George Noble Road,272,286,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+62,25,Founders Lane,0,597,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+63,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+64,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+65,27,Gallop Lane,116,136,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+66,7056,Dawick Street,0,78,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+67,7056,Dawick Street,78,88,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+68,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+69,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+70,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+71,30,Curly McLeod Way,0,69,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+72,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+73,32,Karearea Lane,0,56,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+74,32,Karearea Lane,84,154,All,ok,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+75,32,Karearea Lane,154,820,All,ok,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+76,32,Karearea Lane,820,1262,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+77,33,Okoare Lane,0,58,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+78,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+79,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+80,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+81,36,Paneika Lane,391,520,All,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+82,37,Freemason Avenue,0,149,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+83,37,Freemason Avenue,149,172,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+84,37,Freemason Avenue,172,362,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+85,38,Tyler Place,0,279,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+86,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+87,38,Tyler Place,322,334,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+88,38,Tyler Place,334,389,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+89,39,Ashlar Court,0,251,All,ok,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+90,40,Bravery Road,0,278,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+91,41,Huamanu Street,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+92,41,Huamanu Street,116,134,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+93,1092,Bronte Road East,0,156,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+94,1092,Bronte Road East,156,183,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+95,42,Te Manaki Street,0,377,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+96,44,Dickins Lane,0,474,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+97,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+98,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+99,45,Chatfield Lane,0,83,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+100,20,Burkes Creek Road,765,1789,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+101,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+102,1037,Epiha Road Upper,0,415,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+103,37,Freemason Avenue,172,362,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+104,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+105,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+106,23,Apple Orchard Lane,0,185,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+107,9339,Weston Way,814,886,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+108,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+109,38,Tyler Place,334,389,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+110,38,Tyler Place,322,334,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+111,32,Karearea Lane,154,820,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+112,12,Kriletich Drive,0,263,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+113,917,Port Street East,2120,2350,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+114,9339,Weston Way,3398,3457,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+115,9339,Weston Way,1051,1219,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+116,19,Elm Close,0,82,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+117,15,Fendall Close,0,438,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+118,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+119,6,Croatia Avenue,0,42,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+120,16,Sarah Lane,0,515,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+121,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+122,32,Karearea Lane,820,1262,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+123,20,Burkes Creek Road,765,1789,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+124,32,Karearea Lane,154,820,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+125,9339,Weston Way,1237,1589,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+126,20,Burkes Creek Road,765,1789,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+127,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+128,9339,Weston Way,1589,1999,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+129,20,Burkes Creek Road,549,697,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+130,1092,Bronte Road East,156,183,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+131,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+132,1,Conifer Close,0,378,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+133,20,Burkes Creek Road,549,697,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+134,9339,Weston Way,2696,3114,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+135,21,Tapeka Heights Lane,0,277,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+136,10,Upper Ahu Ahu Road,46,68,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+137,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+138,1038,Gossey Drive North,1319,1723,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+139,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+140,11,Lower Ahu Ahu Road,158,179,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+141,1037,Epiha Road Upper,0,415,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+142,41,Huamanu Street,0,116,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+143,41,Huamanu Street,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+144,16,Sarah Lane,0,515,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+145,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+146,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+147,1092,Bronte Road East,0,156,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+148,42,Te Manaki Street,0,377,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+149,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+150,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+151,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+152,15,Fendall Close,643,736,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+153,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+154,33,Okoare Lane,0,58,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+155,37,Freemason Avenue,0,149,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+156,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+157,30,Curly McLeod Way,0,69,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+158,25,Founders Lane,0,597,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+159,36,Paneika Lane,391,520,All,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+160,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+161,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+162,29,Riroriro Road,0,122,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+163,15,Fendall Close,736,814,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+164,9339,Weston Way,965,1051,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+165,23,Apple Orchard Lane,0,185,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+166,32,Karearea Lane,84,154,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+167,9339,Weston Way,2385,2696,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+168,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+169,1013,Brook Street North,0,220,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+170,7056,Dawick Street,78,88,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+171,10,Upper Ahu Ahu Road,46,68,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+172,32,Karearea Lane,0,56,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+173,20,Burkes Creek Road,765,1789,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+174,16,Sarah Lane,0,515,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+175,1,Conifer Close,0,378,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+176,9,Kowhai Glen,0,305,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+177,1,Conifer Close,0,378,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+178,30,Curly McLeod Way,0,69,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+179,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+180,917,Port Street East,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+181,3,Matai Way,0,557,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+182,38,Tyler Place,322,334,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+183,1037,Epiha Road Upper,0,415,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+184,917,Port Street East,1340,1431,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+185,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+186,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+187,23,Apple Orchard Lane,0,185,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+188,9339,Weston Way,886,939,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+189,4,Highfield Drive,0,71,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+190,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+191,38,Tyler Place,334,389,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+192,13,Puriri Dale Way,0,293,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+193,917,Port Street East,1431,2115,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+194,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+195,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+196,37,Freemason Avenue,149,172,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+197,9339,Weston Way,1051,1219,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+198,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+199,9339,Weston Way,1589,1999,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+200,917,Port Street East,874,1340,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+201,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+202,18,Monaghan Way,0,80,All,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+203,6,Croatia Avenue,42,76,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+204,21,Tapeka Heights Lane,0,277,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+205,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+206,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+207,917,Port Street East,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+208,917,Port Street East,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+209,37,Freemason Avenue,149,172,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+210,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+211,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+212,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+213,10,Upper Ahu Ahu Road,0,46,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+214,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+215,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+216,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+217,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+218,12,Kriletich Drive,0,263,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+219,25,Founders Lane,0,597,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+220,9,Kowhai Glen,0,305,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+221,3,Matai Way,0,557,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+222,15,Fendall Close,438,585,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+223,11,Lower Ahu Ahu Road,0,158,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+224,38,Tyler Place,334,389,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+225,10,Upper Ahu Ahu Road,0,46,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+226,15,Fendall Close,0,438,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+227,37,Freemason Avenue,149,172,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+228,27,Gallop Lane,116,136,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+229,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+230,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+231,9339,Weston Way,1237,1589,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+232,16,Sarah Lane,0,515,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+233,33,Okoare Lane,0,58,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+234,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+235,20,Burkes Creek Road,549,697,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+236,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+237,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+238,10,Upper Ahu Ahu Road,46,68,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+239,11,Lower Ahu Ahu Road,0,158,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+240,37,Freemason Avenue,0,149,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+241,9339,Weston Way,2385,2696,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+242,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+243,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+244,9339,Weston Way,1999,2369,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+245,917,Port Street East,1431,2115,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+246,9339,Weston Way,2696,3114,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+247,2,Fladgate Drive,0,565,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+248,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+249,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+250,8,Tarras Road,0,86,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+251,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+252,9339,Weston Way,965,1051,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+253,15,Fendall Close,0,438,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+254,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+255,11,Lower Ahu Ahu Road,0,158,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+256,1035,Cousins Avenue East,0,61,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+257,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+258,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+259,32,Karearea Lane,84,154,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+260,9339,Weston Way,1051,1219,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+261,32,Karearea Lane,154,820,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+262,20,Burkes Creek Road,549,697,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+263,27,Gallop Lane,116,136,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+264,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+265,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+266,37,Freemason Avenue,172,362,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+267,27,Gallop Lane,116,136,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+268,5,Vintry Drive,0,362,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+269,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+270,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+271,917,Port Street East,1431,2115,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+272,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+273,38,Tyler Place,334,389,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+274,38,Tyler Place,322,334,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+275,38,Tyler Place,322,334,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+276,15,Fendall Close,438,585,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+277,37,Freemason Avenue,0,149,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+278,3,Matai Way,0,557,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+279,25,Founders Lane,0,597,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+280,24,George Noble Road,0,272,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+281,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+282,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+283,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+284,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+285,9339,Weston Way,1051,1219,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+286,17,Ash Drive,0,318,All,Surf too NEW,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+287,21,Tapeka Heights Lane,0,277,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+288,23,Apple Orchard Lane,0,185,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+289,9339,Weston Way,3114,3398,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+290,38,Tyler Place,334,389,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+291,32,Karearea Lane,154,820,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+292,7,Lumbarda Drive,0,152,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+293,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+294,32,Karearea Lane,820,1262,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+295,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+296,7056,Dawick Street,0,78,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+297,21,Tapeka Heights Lane,0,277,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+298,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+299,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+300,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+301,4,Highfield Drive,0,71,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+302,11,Lower Ahu Ahu Road,0,158,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+303,7056,Dawick Street,0,78,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+304,29,Riroriro Road,0,122,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+305,15,Fendall Close,438,585,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+306,1038,Gossey Drive North,1319,1723,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+307,1,Conifer Close,0,378,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+308,41,Huamanu Street,0,116,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+309,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+310,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+311,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+312,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+313,9339,Weston Way,1589,1999,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+314,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+315,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+316,41,Huamanu Street,116,134,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+317,23,Apple Orchard Lane,0,185,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+318,7056,Dawick Street,0,78,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+319,41,Huamanu Street,116,134,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+320,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+321,15,Fendall Close,736,814,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+322,39,Ashlar Court,0,251,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+323,4,Highfield Drive,0,71,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+324,44,Dickins Lane,0,474,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+325,917,Port Street East,21,396,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+326,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+327,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+328,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+329,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+330,44,Dickins Lane,0,474,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+331,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+332,9339,Weston Way,1589,1999,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+333,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+334,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+335,917,Port Street East,874,1340,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+336,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+337,13,Puriri Dale Way,0,293,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+338,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+339,24,George Noble Road,272,286,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+340,13,Puriri Dale Way,0,293,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+341,38,Tyler Place,0,279,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+342,1037,Epiha Road Upper,0,415,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+343,30,Curly McLeod Way,0,69,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+344,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+345,7056,Dawick Street,78,88,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+346,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+347,9,Kowhai Glen,0,305,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+348,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+349,15,Fendall Close,585,643,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+350,9339,Weston Way,3398,3457,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+351,1092,Bronte Road East,156,183,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+352,15,Fendall Close,643,736,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+353,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+354,13,Puriri Dale Way,0,293,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+355,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+356,917,Port Street East,1431,2115,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+357,9339,Weston Way,2385,2696,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+358,29,Riroriro Road,122,139,All,SLA too Low,SLA too Low,SLA too Low,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+359,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+360,21,Tapeka Heights Lane,0,277,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+361,6,Croatia Avenue,42,76,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+362,917,Port Street East,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+363,15,Fendall Close,0,438,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+364,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+365,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+366,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+367,9,Kowhai Glen,0,305,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+368,26,Stud Road,0,205,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+369,20,Burkes Creek Road,21,520,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+370,18,Monaghan Way,0,80,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+371,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+372,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+373,9339,Weston Way,886,939,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+374,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+375,1013,Brook Street North,0,220,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+376,11,Lower Ahu Ahu Road,158,179,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+377,36,Paneika Lane,391,520,All,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+378,37,Freemason Avenue,172,362,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+379,1035,Cousins Avenue East,0,61,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+380,9339,Weston Way,3114,3398,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+381,15,Fendall Close,736,814,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+382,4,Highfield Drive,0,71,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+383,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+384,7,Lumbarda Drive,0,152,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+385,41,Huamanu Street,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+386,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+387,42,Te Manaki Street,0,377,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+388,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+389,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+390,917,Port Street East,1340,1431,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+391,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+392,917,Port Street East,1340,1431,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+393,6,Croatia Avenue,0,42,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+394,1013,Brook Street North,0,220,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+395,9339,Weston Way,2385,2696,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+396,32,Karearea Lane,0,56,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+397,20,Burkes Creek Road,0,21,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+398,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+399,15,Fendall Close,438,585,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+400,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+401,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+402,917,Port Street East,2120,2350,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+403,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+404,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+405,16,Sarah Lane,0,515,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+406,44,Dickins Lane,0,474,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+407,20,Burkes Creek Road,765,1789,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+408,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+409,40,Bravery Road,0,278,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+410,1035,Cousins Avenue East,0,61,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+411,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+412,44,Dickins Lane,0,474,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+413,11,Lower Ahu Ahu Road,0,158,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+414,15,Fendall Close,0,438,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+415,19,Elm Close,0,82,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+416,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+417,9339,Weston Way,2696,3114,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+418,37,Freemason Avenue,0,149,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+419,9339,Weston Way,886,939,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+420,974,Railway Terrace East,0,730,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+421,917,Port Street East,396,874,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+422,18,Monaghan Way,0,80,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+423,24,George Noble Road,272,286,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+424,9339,Weston Way,886,939,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+425,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+426,2,Fladgate Drive,0,565,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+427,36,Paneika Lane,391,520,All,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+428,9339,Weston Way,3457,3675,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+429,15,Fendall Close,438,585,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+430,38,Tyler Place,0,279,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+431,40,Bravery Road,0,278,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+432,20,Burkes Creek Road,21,520,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+433,9339,Weston Way,2696,3114,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+434,917,Port Street East,396,874,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+435,9,Kowhai Glen,0,305,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+436,917,Port Street East,1340,1431,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+437,36,Paneika Lane,370,391,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+438,19,Elm Close,0,82,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+439,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+440,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+441,9339,Weston Way,2385,2696,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+442,15,Fendall Close,438,585,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+443,9339,Weston Way,3114,3398,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+444,25,Founders Lane,0,597,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+445,20,Burkes Creek Road,549,697,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+446,2,Fladgate Drive,0,565,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+447,32,Karearea Lane,0,56,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+448,1013,Brook Street North,0,220,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+449,18,Monaghan Way,0,80,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+450,13,Puriri Dale Way,0,293,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+451,9339,Weston Way,3398,3457,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+452,15,Fendall Close,585,643,All,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+453,35,Leicester Place,0,660,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+454,1092,Bronte Road East,0,156,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+455,21,Tapeka Heights Lane,0,277,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+456,9339,Weston Way,886,939,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+457,917,Port Street East,2120,2350,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+458,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+459,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+460,9339,Weston Way,2385,2696,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+461,24,George Noble Road,0,272,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+462,917,Port Street East,874,1340,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+463,917,Port Street East,396,874,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+464,29,Riroriro Road,0,122,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+465,43,Infantry Lane,0,95,All,ADT below Thresh,ADT below Thresh,ADT below Thresh,ADT below Thresh,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+466,10,Upper Ahu Ahu Road,46,68,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+467,10,Upper Ahu Ahu Road,0,46,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+468,1092,Bronte Road East,0,156,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+469,20,Burkes Creek Road,697,765,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+470,3,Matai Way,0,557,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+471,3,Matai Way,0,557,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+472,917,Port Street East,1340,1431,All,STM Long Seg Low Distress,ok,ok,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+473,7056,Dawick Street,0,78,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+474,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+475,28,Stirrup Lane,0,261,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+476,40,Bravery Road,0,278,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+477,9339,Weston Way,814,886,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+478,15,Fendall Close,585,643,All,SLA too Low,SLA too Low,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+479,9167,Foxglove Drive,0,668,All,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,LTM Condition too Good,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+480,917,Port Street East,2120,2350,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+481,9339,Weston Way,1999,2369,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+482,7056,Dawick Street,0,78,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+483,9,Kowhai Glen,0,305,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+484,22,Sir John McKenzie Drive,0,530,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+485,27,Gallop Lane,0,116,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+486,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+487,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+488,37,Freemason Avenue,0,149,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+489,30,Curly McLeod Way,69,82,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+490,20,Burkes Creek Road,21,520,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+491,36,Paneika Lane,0,370,All,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+492,39,Ashlar Court,0,251,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+493,16,Sarah Lane,0,515,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+494,917,Port Street East,396,874,All,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+495,44,Dickins Lane,474,1091,All,Surf too NEW,Surf too NEW,Surf too NEW,Surf too NEW,SLA too Low,SLA too Low,SLA too Low,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+496,19,Elm Close,0,82,All,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,STM Long Seg Low Distress,LTM Condition too Good,LTM Condition too Good,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+497,8,Tarras Road,86,120,All,SLA too Low,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+498,9339,Weston Way,1051,1219,All,STM Long Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
+499,38,Tyler Place,279,322,All,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,STM Short Seg Low Distress,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok,ok
