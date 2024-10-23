@@ -1,0 +1,501 @@
+elem_index,file_section_id,file_section_name,file_loc_from,file_loc_to,file_lane_name,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038
+0,1013,Brook Street North,0,220,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+1,1,Conifer Close,0,378,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+2,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+3,4,Highfield Drive,0,71,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+4,3,Matai Way,0,557,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+5,5,Vintry Drive,0,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+6,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+7,6,Croatia Avenue,42,76,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+8,7,Lumbarda Drive,0,152,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+9,8,Tarras Road,0,86,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+10,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+11,9,Kowhai Glen,0,305,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+12,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+13,1038,Gossey Drive North,1319,1723,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+14,10,Upper Ahu Ahu Road,0,46,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+15,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+16,11,Lower Ahu Ahu Road,0,158,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+17,11,Lower Ahu Ahu Road,158,179,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+18,12,Kriletich Drive,0,263,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+19,917,Port Street East,0,21,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+20,917,Port Street East,21,396,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+21,917,Port Street East,396,874,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+22,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+23,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+24,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+25,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+26,13,Puriri Dale Way,0,293,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+27,15,Fendall Close,0,438,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+28,15,Fendall Close,438,585,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+29,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+30,15,Fendall Close,643,736,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+31,15,Fendall Close,736,814,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+32,9339,Weston Way,814,886,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+33,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+34,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+35,9339,Weston Way,1051,1219,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+36,9339,Weston Way,1237,1589,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+37,9339,Weston Way,1589,1999,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+38,9339,Weston Way,1999,2369,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+39,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+40,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+41,9339,Weston Way,3114,3398,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+42,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+43,9339,Weston Way,3457,3675,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+44,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+45,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+46,17,Ash Drive,0,318,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+47,18,Monaghan Way,0,80,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+48,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+49,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+50,19,Elm Close,82,101,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+51,20,Burkes Creek Road,0,21,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+52,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+53,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+54,20,Burkes Creek Road,697,765,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+55,20,Burkes Creek Road,765,1789,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+56,21,Tapeka Heights Lane,0,277,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+57,22,Sir John McKenzie Drive,0,530,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+58,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+59,974,Railway Terrace East,0,730,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+60,24,George Noble Road,0,272,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+61,24,George Noble Road,272,286,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+62,25,Founders Lane,0,597,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+63,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+64,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+65,27,Gallop Lane,116,136,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+66,7056,Dawick Street,0,78,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+67,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+68,28,Stirrup Lane,0,261,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+69,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+70,29,Riroriro Road,122,139,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+71,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+72,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+73,32,Karearea Lane,0,56,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+74,32,Karearea Lane,84,154,All,U_L_ac,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+75,32,Karearea Lane,154,820,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+76,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+77,33,Okoare Lane,0,58,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+78,35,Leicester Place,0,660,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+79,36,Paneika Lane,0,370,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+80,36,Paneika Lane,370,391,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+81,36,Paneika Lane,391,520,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+82,37,Freemason Avenue,0,149,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+83,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+84,37,Freemason Avenue,172,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+85,38,Tyler Place,0,279,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+86,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+87,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+88,38,Tyler Place,334,389,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+89,39,Ashlar Court,0,251,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+90,40,Bravery Road,0,278,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+91,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+92,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+93,1092,Bronte Road East,0,156,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+94,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+95,42,Te Manaki Street,0,377,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+96,44,Dickins Lane,0,474,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+97,44,Dickins Lane,474,1091,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+98,43,Infantry Lane,0,95,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+99,45,Chatfield Lane,0,83,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+100,29,Riroriro Road,122,139,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+101,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+102,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+103,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+104,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+105,3,Matai Way,0,557,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+106,3,Matai Way,0,557,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+107,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+108,9339,Weston Way,1237,1589,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+109,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+110,29,Riroriro Road,122,139,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+111,44,Dickins Lane,0,474,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+112,21,Tapeka Heights Lane,0,277,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+113,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+114,28,Stirrup Lane,0,261,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+115,7,Lumbarda Drive,0,152,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+116,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+117,38,Tyler Place,0,279,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+118,44,Dickins Lane,474,1091,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+119,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+120,10,Upper Ahu Ahu Road,0,46,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+121,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+122,15,Fendall Close,736,814,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+123,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+124,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+125,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+126,19,Elm Close,82,101,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+127,9339,Weston Way,1589,1999,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+128,6,Croatia Avenue,42,76,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+129,917,Port Street East,396,874,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+130,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+131,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+132,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+133,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+134,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+135,32,Karearea Lane,0,56,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+136,9339,Weston Way,1051,1219,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+137,18,Monaghan Way,0,80,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+138,44,Dickins Lane,474,1091,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+139,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+140,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+141,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+142,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+143,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+144,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+145,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+146,32,Karearea Lane,84,154,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+147,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+148,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+149,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+150,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+151,10,Upper Ahu Ahu Road,0,46,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+152,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+153,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+154,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+155,4,Highfield Drive,0,71,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+156,37,Freemason Avenue,172,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+157,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+158,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+159,42,Te Manaki Street,0,377,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+160,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+161,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+162,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+163,1,Conifer Close,0,378,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+164,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+165,38,Tyler Place,334,389,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+166,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+167,8,Tarras Road,0,86,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+168,9339,Weston Way,814,886,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+169,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+170,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+171,20,Burkes Creek Road,697,765,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+172,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+173,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+174,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+175,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+176,37,Freemason Avenue,0,149,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+177,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+178,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+179,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+180,25,Founders Lane,0,597,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+181,7,Lumbarda Drive,0,152,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+182,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+183,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+184,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+185,38,Tyler Place,0,279,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+186,44,Dickins Lane,0,474,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+187,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+188,9339,Weston Way,3114,3398,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+189,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+190,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+191,15,Fendall Close,438,585,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+192,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+193,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+194,24,George Noble Road,272,286,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+195,43,Infantry Lane,0,95,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+196,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+197,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+198,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+199,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+200,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+201,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+202,13,Puriri Dale Way,0,293,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+203,15,Fendall Close,643,736,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+204,20,Burkes Creek Road,697,765,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+205,20,Burkes Creek Road,765,1789,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+206,15,Fendall Close,0,438,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+207,21,Tapeka Heights Lane,0,277,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+208,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+209,24,George Noble Road,272,286,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+210,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+211,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+212,27,Gallop Lane,116,136,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+213,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+214,11,Lower Ahu Ahu Road,158,179,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+215,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+216,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+217,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+218,42,Te Manaki Street,0,377,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+219,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+220,7,Lumbarda Drive,0,152,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+221,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+222,28,Stirrup Lane,0,261,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+223,20,Burkes Creek Road,697,765,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+224,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+225,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+226,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+227,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+228,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+229,32,Karearea Lane,84,154,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+230,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+231,33,Okoare Lane,0,58,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+232,40,Bravery Road,0,278,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+233,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+234,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+235,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+236,1038,Gossey Drive North,1319,1723,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+237,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+238,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+239,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+240,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+241,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+242,15,Fendall Close,438,585,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+243,20,Burkes Creek Road,21,520,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+244,9,Kowhai Glen,0,305,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+245,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+246,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+247,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+248,9339,Weston Way,1999,2369,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+249,17,Ash Drive,0,318,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+250,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+251,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+252,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+253,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+254,39,Ashlar Court,0,251,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+255,36,Paneika Lane,391,520,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+256,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+257,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+258,12,Kriletich Drive,0,263,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+259,22,Sir John McKenzie Drive,0,530,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+260,10,Upper Ahu Ahu Road,0,46,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+261,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+262,27,Gallop Lane,116,136,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+263,974,Railway Terrace East,0,730,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+264,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+265,42,Te Manaki Street,0,377,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+266,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+267,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+268,1038,Gossey Drive North,1319,1723,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+269,11,Lower Ahu Ahu Road,0,158,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+270,8,Tarras Road,0,86,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+271,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+272,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+273,13,Puriri Dale Way,0,293,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+274,15,Fendall Close,0,438,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+275,36,Paneika Lane,391,520,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+276,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+277,917,Port Street East,0,21,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+278,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+279,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+280,44,Dickins Lane,0,474,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+281,24,George Noble Road,0,272,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+282,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+283,35,Leicester Place,0,660,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+284,43,Infantry Lane,0,95,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+285,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+286,38,Tyler Place,0,279,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+287,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+288,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+289,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+290,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+291,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+292,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+293,28,Stirrup Lane,0,261,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+294,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+295,15,Fendall Close,736,814,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+296,21,Tapeka Heights Lane,0,277,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+297,917,Port Street East,0,21,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+298,12,Kriletich Drive,0,263,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+299,33,Okoare Lane,0,58,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+300,32,Karearea Lane,84,154,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+301,33,Okoare Lane,0,58,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+302,9339,Weston Way,1999,2369,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+303,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+304,44,Dickins Lane,474,1091,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+305,7056,Dawick Street,0,78,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+306,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+307,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+308,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+309,22,Sir John McKenzie Drive,0,530,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+310,10,Upper Ahu Ahu Road,0,46,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+311,42,Te Manaki Street,0,377,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+312,38,Tyler Place,334,389,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+313,9,Kowhai Glen,0,305,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+314,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+315,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+316,5,Vintry Drive,0,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+317,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+318,9339,Weston Way,814,886,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+319,24,George Noble Road,272,286,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+320,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+321,32,Karearea Lane,84,154,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+322,15,Fendall Close,736,814,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+323,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+324,28,Stirrup Lane,0,261,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+325,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+326,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+327,20,Burkes Creek Road,0,21,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+328,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+329,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+330,30,Curly McLeod Way,69,82,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+331,1092,Bronte Road East,0,156,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+332,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+333,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+334,9339,Weston Way,1999,2369,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+335,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+336,9339,Weston Way,3457,3675,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+337,1092,Bronte Road East,0,156,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+338,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+339,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+340,1,Conifer Close,0,378,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+341,4,Highfield Drive,0,71,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+342,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+343,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+344,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+345,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+346,27,Gallop Lane,0,116,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+347,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+348,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+349,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+350,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+351,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+352,1038,Gossey Drive North,1319,1723,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+353,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+354,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+355,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+356,6,Croatia Avenue,42,76,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+357,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+358,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+359,18,Monaghan Way,0,80,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+360,36,Paneika Lane,391,520,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+361,9339,Weston Way,1589,1999,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+362,6,Croatia Avenue,42,76,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+363,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+364,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+365,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+366,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+367,35,Leicester Place,0,660,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+368,2,Fladgate Drive,0,565,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+369,13,Puriri Dale Way,0,293,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+370,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+371,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+372,24,George Noble Road,0,272,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+373,20,Burkes Creek Road,765,1789,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+374,9,Kowhai Glen,0,305,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+375,37,Freemason Avenue,0,149,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+376,32,Karearea Lane,0,56,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+377,15,Fendall Close,0,438,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+378,7,Lumbarda Drive,0,152,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+379,38,Tyler Place,322,334,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+380,9339,Weston Way,814,886,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+381,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+382,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+383,36,Paneika Lane,370,391,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+384,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+385,32,Karearea Lane,0,56,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+386,9339,Weston Way,3114,3398,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+387,35,Leicester Place,0,660,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+388,37,Freemason Avenue,172,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+389,32,Karearea Lane,0,56,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+390,25,Founders Lane,0,597,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+391,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+392,11,Lower Ahu Ahu Road,158,179,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+393,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+394,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+395,1092,Bronte Road East,0,156,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+396,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+397,11,Lower Ahu Ahu Road,0,158,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+398,27,Gallop Lane,116,136,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+399,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+400,22,Sir John McKenzie Drive,0,530,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+401,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+402,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+403,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+404,29,Riroriro Road,122,139,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+405,3,Matai Way,0,557,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+406,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+407,32,Karearea Lane,154,820,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+408,1037,Epiha Road Upper,0,415,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+409,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+410,1092,Bronte Road East,0,156,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+411,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+412,9339,Weston Way,1589,1999,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+413,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+414,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+415,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+416,36,Paneika Lane,0,370,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+417,974,Railway Terrace East,0,730,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+418,9339,Weston Way,2696,3114,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+419,15,Fendall Close,585,643,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+420,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+421,1038,Gossey Drive North,1319,1723,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+422,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+423,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+424,6,Croatia Avenue,0,42,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+425,40,Bravery Road,0,278,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+426,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+427,9339,Weston Way,1589,1999,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+428,32,Karearea Lane,820,1262,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+429,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+430,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+431,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+432,26,Stud Road,0,205,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+433,20,Burkes Creek Road,765,1789,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+434,38,Tyler Place,334,389,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+435,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+436,9,Kowhai Glen,0,305,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+437,1092,Bronte Road East,156,183,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+438,11,Lower Ahu Ahu Road,0,158,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+439,33,Okoare Lane,0,58,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+440,9339,Weston Way,1051,1219,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+441,15,Fendall Close,438,585,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+442,8,Tarras Road,0,86,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+443,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+444,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+445,9339,Weston Way,3114,3398,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+446,29,Riroriro Road,0,122,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+447,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+448,15,Fendall Close,643,736,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+449,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+450,11,Lower Ahu Ahu Road,0,158,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+451,38,Tyler Place,279,322,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+452,9339,Weston Way,886,939,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+453,41,Huamanu Street,116,134,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+454,917,Port Street East,1431,2115,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+455,21,Tapeka Heights Lane,0,277,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+456,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+457,15,Fendall Close,736,814,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+458,29,Riroriro Road,122,139,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+459,44,Dickins Lane,0,474,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+460,43,Infantry Lane,0,95,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+461,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+462,20,Burkes Creek Road,697,765,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+463,11,Lower Ahu Ahu Road,158,179,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+464,3,Matai Way,0,557,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+465,16,Sarah Lane,0,515,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+466,15,Fendall Close,643,736,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+467,917,Port Street East,1340,1431,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+468,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+469,9339,Weston Way,965,1051,All,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac,U_H_ac
+470,36,Paneika Lane,391,520,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+471,9339,Weston Way,3398,3457,All,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac,U_M_ac
+472,15,Fendall Close,0,438,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+473,4,Highfield Drive,0,71,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+474,1,Conifer Close,0,378,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+475,36,Paneika Lane,370,391,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+476,917,Port Street East,396,874,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+477,10,Upper Ahu Ahu Road,46,68,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+478,5,Vintry Drive,0,362,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+479,9339,Weston Way,814,886,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+480,9167,Foxglove Drive,0,668,All,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac,R_L_ac
+481,9339,Weston Way,2385,2696,All,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal,U_M_seal
+482,38,Tyler Place,0,279,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+483,43,Infantry Lane,0,95,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+484,19,Elm Close,0,82,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+485,6,Croatia Avenue,42,76,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+486,7056,Dawick Street,78,88,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+487,41,Huamanu Street,0,116,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+488,23,Apple Orchard Lane,0,185,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+489,15,Fendall Close,643,736,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+490,9339,Weston Way,1051,1219,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+491,13,Puriri Dale Way,0,293,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+492,37,Freemason Avenue,149,172,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+493,20,Burkes Creek Road,549,697,All,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal,U_H_seal
+494,8,Tarras Road,86,120,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+495,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac
+496,30,Curly McLeod Way,0,69,All,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal,U_L_seal
+497,917,Port Street East,874,1340,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+498,917,Port Street East,2120,2350,All,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal,R_L_seal
+499,1035,Cousins Avenue East,0,61,All,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac,U_L_ac

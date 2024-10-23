@@ -1,0 +1,501 @@
+elem_index,file_section_id,file_section_name,file_loc_from,file_loc_to,file_lane_name,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043
+0,1013,Brook Street North,0,220,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+1,1,Conifer Close,0,378,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+2,2,Fladgate Drive,0,565,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+3,4,Highfield Drive,0,71,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+4,3,Matai Way,0,557,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+5,5,Vintry Drive,0,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+6,6,Croatia Avenue,0,42,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+7,6,Croatia Avenue,42,76,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+8,7,Lumbarda Drive,0,152,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+9,8,Tarras Road,0,86,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12,1037,Epiha Road Upper,0,415,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13,1038,Gossey Drive North,1319,1723,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14,10,Upper Ahu Ahu Road,0,46,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1
+15,10,Upper Ahu Ahu Road,46,68,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16,11,Lower Ahu Ahu Road,0,158,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17,11,Lower Ahu Ahu Road,158,179,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18,12,Kriletich Drive,0,263,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19,917,Port Street East,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+20,917,Port Street East,21,396,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1
+21,917,Port Street East,396,874,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+22,917,Port Street East,874,1340,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+23,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+24,917,Port Street East,1431,2115,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+25,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+26,13,Puriri Dale Way,0,293,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+27,15,Fendall Close,0,438,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+28,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+29,15,Fendall Close,585,643,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+30,15,Fendall Close,643,736,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+31,15,Fendall Close,736,814,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+32,9339,Weston Way,814,886,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+33,9339,Weston Way,886,939,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+34,9339,Weston Way,965,1051,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+35,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+36,9339,Weston Way,1237,1589,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+37,9339,Weston Way,1589,1999,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+38,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+39,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+40,9339,Weston Way,2696,3114,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+41,9339,Weston Way,3114,3398,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+42,9339,Weston Way,3398,3457,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+43,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+44,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H
+45,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+46,17,Ash Drive,0,318,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+47,18,Monaghan Way,0,80,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+48,1035,Cousins Avenue East,0,61,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+49,19,Elm Close,0,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+50,19,Elm Close,82,101,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+51,20,Burkes Creek Road,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+52,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+53,20,Burkes Creek Road,549,697,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+54,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+55,20,Burkes Creek Road,765,1789,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+56,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+57,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+58,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+59,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+60,24,George Noble Road,0,272,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+61,24,George Noble Road,272,286,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+62,25,Founders Lane,0,597,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+63,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+64,27,Gallop Lane,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+65,27,Gallop Lane,116,136,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+66,7056,Dawick Street,0,78,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+67,7056,Dawick Street,78,88,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+68,28,Stirrup Lane,0,261,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+69,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+70,29,Riroriro Road,122,139,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+71,30,Curly McLeod Way,0,69,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+72,30,Curly McLeod Way,69,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2
+73,32,Karearea Lane,0,56,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+74,32,Karearea Lane,84,154,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+75,32,Karearea Lane,154,820,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+76,32,Karearea Lane,820,1262,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+77,33,Okoare Lane,0,58,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+78,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+79,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+80,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+81,36,Paneika Lane,391,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+82,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+83,37,Freemason Avenue,149,172,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+84,37,Freemason Avenue,172,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+85,38,Tyler Place,0,279,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+86,38,Tyler Place,279,322,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+87,38,Tyler Place,322,334,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+88,38,Tyler Place,334,389,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+89,39,Ashlar Court,0,251,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+90,40,Bravery Road,0,278,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+91,41,Huamanu Street,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+92,41,Huamanu Street,116,134,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+93,1092,Bronte Road East,0,156,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+94,1092,Bronte Road East,156,183,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+95,42,Te Manaki Street,0,377,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+96,44,Dickins Lane,0,474,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+97,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+98,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+99,45,Chatfield Lane,0,83,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+100,20,Burkes Creek Road,765,1789,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+101,38,Tyler Place,279,322,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+102,1037,Epiha Road Upper,0,415,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+103,37,Freemason Avenue,172,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+104,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+105,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+106,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+107,9339,Weston Way,814,886,All,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2
+108,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2
+109,38,Tyler Place,334,389,All,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H
+110,38,Tyler Place,322,334,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+111,32,Karearea Lane,154,820,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+112,12,Kriletich Drive,0,263,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+113,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H
+114,9339,Weston Way,3398,3457,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+115,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H
+116,19,Elm Close,0,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+117,15,Fendall Close,0,438,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+118,30,Curly McLeod Way,69,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+119,6,Croatia Avenue,0,42,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+120,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+121,30,Curly McLeod Way,69,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+122,32,Karearea Lane,820,1262,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+123,20,Burkes Creek Road,765,1789,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+124,32,Karearea Lane,154,820,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+125,9339,Weston Way,1237,1589,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+126,20,Burkes Creek Road,765,1789,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+127,29,Riroriro Road,122,139,All,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2
+128,9339,Weston Way,1589,1999,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+129,20,Burkes Creek Road,549,697,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+130,1092,Bronte Road East,156,183,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+131,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+132,1,Conifer Close,0,378,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+133,20,Burkes Creek Road,549,697,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+134,9339,Weston Way,2696,3114,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+135,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+136,10,Upper Ahu Ahu Road,46,68,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+137,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+138,1038,Gossey Drive North,1319,1723,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,2,2
+139,917,Port Street East,21,396,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+140,11,Lower Ahu Ahu Road,158,179,All,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H
+141,1037,Epiha Road Upper,0,415,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+142,41,Huamanu Street,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+143,41,Huamanu Street,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+144,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+145,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+146,9339,Weston Way,1999,2369,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+147,1092,Bronte Road East,0,156,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+148,42,Te Manaki Street,0,377,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+149,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+150,29,Riroriro Road,122,139,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+151,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+152,15,Fendall Close,643,736,All,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H
+153,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+154,33,Okoare Lane,0,58,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+155,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+156,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2
+157,30,Curly McLeod Way,0,69,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+158,25,Founders Lane,0,597,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1
+159,36,Paneika Lane,391,520,All,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2
+160,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2
+161,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+162,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+163,15,Fendall Close,736,814,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+164,9339,Weston Way,965,1051,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+165,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+166,32,Karearea Lane,84,154,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+167,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+168,28,Stirrup Lane,0,261,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+169,1013,Brook Street North,0,220,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+170,7056,Dawick Street,78,88,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2
+171,10,Upper Ahu Ahu Road,46,68,All,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+172,32,Karearea Lane,0,56,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+173,20,Burkes Creek Road,765,1789,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+174,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+175,1,Conifer Close,0,378,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+176,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+177,1,Conifer Close,0,378,All,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2
+178,30,Curly McLeod Way,0,69,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+179,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H
+180,917,Port Street East,0,21,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+181,3,Matai Way,0,557,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+182,38,Tyler Place,322,334,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+183,1037,Epiha Road Upper,0,415,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+184,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+185,917,Port Street East,21,396,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+186,29,Riroriro Road,0,122,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+187,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2
+188,9339,Weston Way,886,939,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+189,4,Highfield Drive,0,71,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+190,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+191,38,Tyler Place,334,389,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+192,13,Puriri Dale Way,0,293,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+193,917,Port Street East,1431,2115,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+194,917,Port Street East,21,396,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2
+195,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2
+196,37,Freemason Avenue,149,172,All,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+197,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H
+198,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+199,9339,Weston Way,1589,1999,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H
+200,917,Port Street East,874,1340,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+201,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+202,18,Monaghan Way,0,80,All,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+203,6,Croatia Avenue,42,76,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+204,21,Tapeka Heights Lane,0,277,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,1a,H
+205,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+206,38,Tyler Place,279,322,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+207,917,Port Street East,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+208,917,Port Street East,0,21,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+209,37,Freemason Avenue,149,172,All,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+210,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H
+211,38,Tyler Place,279,322,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+212,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+213,10,Upper Ahu Ahu Road,0,46,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+214,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+215,20,Burkes Creek Road,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,2,2,2,2,2
+216,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+217,20,Burkes Creek Road,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H
+218,12,Kriletich Drive,0,263,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+219,25,Founders Lane,0,597,All,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H
+220,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+221,3,Matai Way,0,557,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+222,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+223,11,Lower Ahu Ahu Road,0,158,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1
+224,38,Tyler Place,334,389,All,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+225,10,Upper Ahu Ahu Road,0,46,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+226,15,Fendall Close,0,438,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+227,37,Freemason Avenue,149,172,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2
+228,27,Gallop Lane,116,136,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2
+229,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+230,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2
+231,9339,Weston Way,1237,1589,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+232,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+233,33,Okoare Lane,0,58,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+234,20,Burkes Creek Road,697,765,All,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,R
+235,20,Burkes Creek Road,549,697,All,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H
+236,20,Burkes Creek Road,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+237,27,Gallop Lane,0,116,All,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+238,10,Upper Ahu Ahu Road,46,68,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+239,11,Lower Ahu Ahu Road,0,158,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+240,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+241,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+242,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+243,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2
+244,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+245,917,Port Street East,1431,2115,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+246,9339,Weston Way,2696,3114,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+247,2,Fladgate Drive,0,565,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+248,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+249,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+250,8,Tarras Road,0,86,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+251,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2
+252,9339,Weston Way,965,1051,All,R,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2,R,R,R,R
+253,15,Fendall Close,0,438,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+254,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1
+255,11,Lower Ahu Ahu Road,0,158,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+256,1035,Cousins Avenue East,0,61,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+257,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+258,917,Port Street East,21,396,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1
+259,32,Karearea Lane,84,154,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+260,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+261,32,Karearea Lane,154,820,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+262,20,Burkes Creek Road,549,697,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+263,27,Gallop Lane,116,136,All,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2
+264,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+265,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2
+266,37,Freemason Avenue,172,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+267,27,Gallop Lane,116,136,All,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H
+268,5,Vintry Drive,0,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+269,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+270,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+271,917,Port Street East,1431,2115,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+272,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+273,38,Tyler Place,334,389,All,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H
+274,38,Tyler Place,322,334,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+275,38,Tyler Place,322,334,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H
+276,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+277,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+278,3,Matai Way,0,557,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+279,25,Founders Lane,0,597,All,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H
+280,24,George Noble Road,0,272,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+281,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2
+282,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+283,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2
+284,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+285,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+286,17,Ash Drive,0,318,All,R,R,R,R,R,R,R,1,1,1,2,2,2,2,2,2,2,2,2,2,2
+287,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+288,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+289,9339,Weston Way,3114,3398,All,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H
+290,38,Tyler Place,334,389,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+291,32,Karearea Lane,154,820,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+292,7,Lumbarda Drive,0,152,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+293,29,Riroriro Road,0,122,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+294,32,Karearea Lane,820,1262,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+295,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+296,7056,Dawick Street,0,78,All,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+297,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+298,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H
+299,43,Infantry Lane,0,95,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+300,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+301,4,Highfield Drive,0,71,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,1a
+302,11,Lower Ahu Ahu Road,0,158,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+303,7056,Dawick Street,0,78,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+304,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1
+305,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+306,1038,Gossey Drive North,1319,1723,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+307,1,Conifer Close,0,378,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+308,41,Huamanu Street,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+309,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2
+310,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+311,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+312,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+313,9339,Weston Way,1589,1999,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+314,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,2
+315,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,1,1,1,2,2,2,2,2,2,2,2,2,2
+316,41,Huamanu Street,116,134,All,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H
+317,23,Apple Orchard Lane,0,185,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+318,7056,Dawick Street,0,78,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+319,41,Huamanu Street,116,134,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+320,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+321,15,Fendall Close,736,814,All,R,R,R,R,R,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2
+322,39,Ashlar Court,0,251,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+323,4,Highfield Drive,0,71,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+324,44,Dickins Lane,0,474,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+325,917,Port Street East,21,396,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+326,20,Burkes Creek Road,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+327,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+328,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+329,28,Stirrup Lane,0,261,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+330,44,Dickins Lane,0,474,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+331,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+332,9339,Weston Way,1589,1999,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+333,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2
+334,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+335,917,Port Street East,874,1340,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+336,27,Gallop Lane,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+337,13,Puriri Dale Way,0,293,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+338,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2
+339,24,George Noble Road,272,286,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+340,13,Puriri Dale Way,0,293,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+341,38,Tyler Place,0,279,All,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2
+342,1037,Epiha Road Upper,0,415,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,2,2,2
+343,30,Curly McLeod Way,0,69,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+344,20,Burkes Creek Road,697,765,All,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+345,7056,Dawick Street,78,88,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2
+346,29,Riroriro Road,122,139,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+347,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+348,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+349,15,Fendall Close,585,643,All,R,R,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2,R,R,R
+350,9339,Weston Way,3398,3457,All,R,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,R,R
+351,1092,Bronte Road East,156,183,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+352,15,Fendall Close,643,736,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+353,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2
+354,13,Puriri Dale Way,0,293,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+355,29,Riroriro Road,122,139,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+356,917,Port Street East,1431,2115,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+357,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+358,29,Riroriro Road,122,139,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+359,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+360,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+361,6,Croatia Avenue,42,76,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+362,917,Port Street East,0,21,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1
+363,15,Fendall Close,0,438,All,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H
+364,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+365,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1
+366,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+367,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+368,26,Stud Road,0,205,All,R,R,R,R,R,R,R,R,R,1,1,1,2,2,2,2,2,2,2,2,2
+369,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H
+370,18,Monaghan Way,0,80,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+371,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+372,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+373,9339,Weston Way,886,939,All,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,R,R,R,R,R
+374,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+375,1013,Brook Street North,0,220,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+376,11,Lower Ahu Ahu Road,158,179,All,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2
+377,36,Paneika Lane,391,520,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+378,37,Freemason Avenue,172,362,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+379,1035,Cousins Avenue East,0,61,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+380,9339,Weston Way,3114,3398,All,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H
+381,15,Fendall Close,736,814,All,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H
+382,4,Highfield Drive,0,71,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+383,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+384,7,Lumbarda Drive,0,152,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
+385,41,Huamanu Street,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+386,27,Gallop Lane,0,116,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+387,42,Te Manaki Street,0,377,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+388,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H
+389,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+390,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H
+391,28,Stirrup Lane,0,261,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+392,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+393,6,Croatia Avenue,0,42,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+394,1013,Brook Street North,0,220,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+395,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+396,32,Karearea Lane,0,56,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+397,20,Burkes Creek Road,0,21,All,R,R,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2,R,R,R
+398,27,Gallop Lane,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+399,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+400,38,Tyler Place,279,322,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+401,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2
+402,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+403,30,Curly McLeod Way,69,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+404,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+405,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+406,44,Dickins Lane,0,474,All,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2
+407,20,Burkes Creek Road,765,1789,All,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H
+408,27,Gallop Lane,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1
+409,40,Bravery Road,0,278,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H
+410,1035,Cousins Avenue East,0,61,All,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+411,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+412,44,Dickins Lane,0,474,All,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2
+413,11,Lower Ahu Ahu Road,0,158,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+414,15,Fendall Close,0,438,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+415,19,Elm Close,0,82,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+416,30,Curly McLeod Way,69,82,All,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+417,9339,Weston Way,2696,3114,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+418,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+419,9339,Weston Way,886,939,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+420,974,Railway Terrace East,0,730,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+421,917,Port Street East,396,874,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+422,18,Monaghan Way,0,80,All,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2
+423,24,George Noble Road,272,286,All,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+424,9339,Weston Way,886,939,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+425,43,Infantry Lane,0,95,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+426,2,Fladgate Drive,0,565,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+427,36,Paneika Lane,391,520,All,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+428,9339,Weston Way,3457,3675,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a
+429,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+430,38,Tyler Place,0,279,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+431,40,Bravery Road,0,278,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H
+432,20,Burkes Creek Road,21,520,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+433,9339,Weston Way,2696,3114,All,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H
+434,917,Port Street East,396,874,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+435,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+436,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+437,36,Paneika Lane,370,391,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+438,19,Elm Close,0,82,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+439,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+440,20,Burkes Creek Road,697,765,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2
+441,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+442,15,Fendall Close,438,585,All,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H
+443,9339,Weston Way,3114,3398,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+444,25,Founders Lane,0,597,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1
+445,20,Burkes Creek Road,549,697,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+446,2,Fladgate Drive,0,565,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+447,32,Karearea Lane,0,56,All,R,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+448,1013,Brook Street North,0,220,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+449,18,Monaghan Way,0,80,All,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+450,13,Puriri Dale Way,0,293,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+451,9339,Weston Way,3398,3457,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H
+452,15,Fendall Close,585,643,All,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2,R,R,R,R,R
+453,35,Leicester Place,0,660,All,R,R,R,R,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2
+454,1092,Bronte Road East,0,156,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+455,21,Tapeka Heights Lane,0,277,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+456,9339,Weston Way,886,939,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+457,917,Port Street East,2120,2350,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,1
+458,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+459,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+460,9339,Weston Way,2385,2696,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+461,24,George Noble Road,0,272,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H
+462,917,Port Street East,874,1340,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+463,917,Port Street East,396,874,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+464,29,Riroriro Road,0,122,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1
+465,43,Infantry Lane,0,95,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+466,10,Upper Ahu Ahu Road,46,68,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+467,10,Upper Ahu Ahu Road,0,46,All,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+468,1092,Bronte Road East,0,156,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+469,20,Burkes Creek Road,697,765,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+470,3,Matai Way,0,557,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+471,3,Matai Way,0,557,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+472,917,Port Street East,1340,1431,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+473,7056,Dawick Street,0,78,All,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,1a
+474,28,Stirrup Lane,0,261,All,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+475,28,Stirrup Lane,0,261,All,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+476,40,Bravery Road,0,278,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H
+477,9339,Weston Way,814,886,All,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2,2,2,2,2,2,2
+478,15,Fendall Close,585,643,All,R,R,R,R,R,1,1,2,2,2,2,2,2,2,2,2,2,2,R,R,R
+479,9167,Foxglove Drive,0,668,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+480,917,Port Street East,2120,2350,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+481,9339,Weston Way,1999,2369,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+482,7056,Dawick Street,0,78,All,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+483,9,Kowhai Glen,0,305,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+484,22,Sir John McKenzie Drive,0,530,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+485,27,Gallop Lane,0,116,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+486,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+487,20,Burkes Creek Road,21,520,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+488,37,Freemason Avenue,0,149,All,R,R,R,R,R,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H
+489,30,Curly McLeod Way,69,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2
+490,20,Burkes Creek Road,21,520,All,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H,H
+491,36,Paneika Lane,0,370,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,2,2,2,2
+492,39,Ashlar Court,0,251,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+493,16,Sarah Lane,0,515,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+494,917,Port Street East,396,874,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+495,44,Dickins Lane,474,1091,All,R,R,R,R,R,R,R,R,1,1,1,1,1,1,2,2,2,2,2,2,2
+496,19,Elm Close,0,82,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+497,8,Tarras Road,86,120,All,R,R,R,R,R,R,R,1a,H,H,H,H,H,H,H,H,H,H,H,H,H
+498,9339,Weston Way,1051,1219,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+499,38,Tyler Place,279,322,All,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1a,H
