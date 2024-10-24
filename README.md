@@ -4,9 +4,10 @@
 This repository contain the setup files for the **Default Road Network Domain Model for Juno Cassandra**. The repo also contains templates and data for Tutorials. Details of what is in the various folders are provided below.
 
 This repository is being maintained by:
-Dr. Fritz Jooste (Lonrix Ltd.)
-Dean Silvester (ASC Consultants Ltd.)
-Dr. Khaldoon Azawi (ASC Consultants Ltd.)
+
+* Dr. Fritz Jooste (Lonrix Ltd.)
+* Dean Silvester (ASC Consultants Ltd.)
+* Dr. Khaldoon Azawi (ASC Consultants Ltd.)
 
 The documentation site for the Default Road Network Domain Model for Cassandra [can be found at this link](https://lonrix-limited.github.io/jcass_nzla_models_v2_docs/).
 
