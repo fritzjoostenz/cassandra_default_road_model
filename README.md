@@ -1,7 +1,7 @@
 # Juno Cassandra Default Road Network Model
 
 ## Overview
-This repository contain the setup files for the **Default Road Network Domain Model for Juno Cassandra**. The repo also contains templates and data for Tutorials. Details of what is in the various folders are provided below.
+This repository contains the setup files for the **Default Road Network Domain Model for Juno Cassandra**. The repo also contains templates and data for Tutorials. Details of what is in the various folders are provided below.
 
 This repository is being maintained by:
 
@@ -11,10 +11,10 @@ This repository is being maintained by:
 
 The documentation site for the Default Road Network Domain Model for Cassandra [can be found at this link](https://lonrix-limited.github.io/jcass_nzla_models_v2_docs/).
 
-Please see the section 'Questions, Contributions and Feedback' below for details on how to log any issues, how to ask questions etc.
+Please see the sections 'Questions, Contributions and Feedback' and 'Logging Issues' below for details on how to ask questions, contribute, log any issues, etc.
 
 ## Folder: 'dm_setups'
-This folder contains the latest as well as earlier versions of the Domain Model Setup file for the Default Road Model. Versions are numbered consequtively so just download the latest version if you do not want to roll back to an earlier version. From Version 2 onwards, each file should contain an incremental change log to show how each version is different from its immediate predecessor. Note that this change log is not cumulative, but only shows changes since the previous version.
+This folder contains the latest as well as earlier versions of the **Domain Model Setup file** for the Default Road Model. Versions are numbered consequtively, so just download the latest version if you do not want to roll back to an earlier version. From Version 2 onwards, each file should contain an incremental change log to show how each version is different from its immediate predecessor. Note that this change log is not cumulative, but only shows changes since the previous version.
 
 ## Folder: 'tutorial_projects'
 This folder contains Tutorial projects that accompany YouTube videos. Most of these tutorials contain input data sets with 500 or fewer elements, and thus you can follow along without requiring a desktop license.
