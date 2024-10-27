@@ -24,7 +24,7 @@ In the root 'tutorial_projects' folder you should find zip files that accompany 
 This folder contains Demonstration projects. It is similar to Tutorial projects but not as polished and some files may contain deprecated features etc. Mainly for use by the development team.
 
 ## Questions, Contributions and Feedback
-We welcome questions, contributions and feedback. If you have any questions about how this domain model works, please first have a look [at thge documentation website](https://lonrix-limited.github.io/jcass_nzla_models_v2_docs/). If you have specific questions that are not answered by the documentation website, feel free to get in touch with the maintainers of this repository through the company websites for Lonrix or ASC. 
+We welcome questions, contributions and feedback. If you have any questions about how this domain model works, please first have a look [at the documentation website](https://lonrix-limited.github.io/jcass_nzla_models_v2_docs/). If you have specific questions that are not answered by the documentation website, feel free to get in touch with the maintainers of this repository through the company websites for Lonrix or ASC. 
 
 ## Logging Issues
 If you run into any bugs or problems while implementing the Default Road Network Domain Model, please use the GitHub Issue Tracking feature to log your concern or bug. One of the repo maintainers will follow up and, if needed, we will fix the problem and release an updated version ASAP.
